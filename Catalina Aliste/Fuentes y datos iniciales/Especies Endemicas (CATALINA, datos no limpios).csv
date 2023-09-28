@@ -1,0 +1,819 @@
+Especie Id,Version,Reino,Division,Clase,Orden,Familia,Genero,Nombre Cientifico,Nombre Comun,Origen,Estado Conservacion
+1828,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Aa,Aa nervosa,,Nativa,Vulnerable (VU)
+1071,1,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Acaena,Acaena masafuerana,,Nativa,En peligro crítico (CR)
+8249,1,Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Acalodegma,Acalodegma vidali,,Nativa,En Peligro (EN)
+8409,1,Animalia,Arthropoda,Arachnida,Araneae,Nemesiidae,Acanthogonatus,Acanthogonatus hualpen,tarántula (genérico),Nativa,En peligro crítico (CR)
+767,1,Animalia,Chordata,Mammalia,Rodentia,Octodontidae,Aconaemys,Aconaemys sagei,Tunduco de Sage,Nativa,Vulnerable (VU)
+2810,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia argyrophylla,Varilla,Nativa,Vulnerable (VU)
+341,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia balsamica,Paramela de Puangue,Nativa,Vulnerable (VU)
+2807,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia bijuga,,Nativa,En peligro crítico (CR)
+964,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia godoyae,varillas,Nativa,Vulnerable (VU)
+2811,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia micrantha,,Nativa,Vulnerable (VU)
+2812,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia odontophylla,,Nativa,Extinta (EX)
+343,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Adesmia,Adesmia resinosa,Paramela de Til-Til,Nativa,En Peligro (EN)
+345,1,Plantae,Pteridophyta,Filicopsida,Filicales,Adiantaceae,Adiantum,Adiantum gertrudis,Palito negro,Nativa,Vulnerable (VU)
+346,1,Plantae,Pteridophyta,Filicopsida,Filicales,Adiantaceae,Adiantum,Adiantum pearcei,Palito negro,Nativa,En peligro crítico (CR)
+2846,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla affinis,Pancora,Nativa,En peligro crítico (CR)
+625,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla bahamondei,Pancora,Nativa,En Peligro (EN)
+2848,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla cholchol,Pancora,Nativa,Vulnerable (VU)
+626,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla concepcionensis,Pancora,Nativa,En Peligro (EN)
+"627,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla denticulata,Pancora,Nativa,""En peligro crítico (CR), Preocupación menor (LC)"""
+629,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla expansa,Pancora,Nativa,En Peligro (EN)
+630,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla laevis,Pancora,Nativa,En Peligro (EN)
+632,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla manni,Pancora,Nativa,Vulnerable (VU)
+2847,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla occidentalis,Pancora,Nativa,En Peligro (EN)
+635,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla papudo,Pancora,Nativa,En Peligro (EN)
+638,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Aeglidae,Aegla,Aegla spectabilis,Pancora,Nativa,Vulnerable (VU)
+"2753,1,Plantae,Magnoliophyta,Magnoliopsida,Celastrales,Aextoxicaceae,Aextoxicon,Aextoxicon punctatum,olivillo,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+1072,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Poaceae,Agrostis,Agrostis masafuerana,,Nativa,En peligro crítico (CR)
+8253,1,Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Allograpta,Allograpta robinsoniana,,Nativa,En Peligro (EN)
+"34,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes barrioi,Sapo de pecho espinoso de Barrio,Nativa,""En Peligro (EN), Rara"""
+5691,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes cantillanensis,Rana de pecho espinoso de Cantillana,Nativa,En Peligro (EN)
+5392,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes gargola,rana del Catedral,Nativa,En Peligro (EN)
+645,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes hugoi,Sapo de Hugo,Nativa,Vulnerable (VU)
+2747,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes igneus,Rana de pecho espinoso de Tolhuaca,Nativa,Vulnerable (VU)
+58,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes laevis,Sapo,Nativa,En peligro crítico (CR)
+"35,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes montanus,Sapo de monte,Nativa,""En Peligro (EN), Rara"""
+2820,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes norae,Rana de pecho espinoso de Oncol,Nativa,En peligro crítico (CR)
+5393,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes pehuenche,Sapo de pecho espinoso,Nativa,En peligro crítico (CR)
+"37,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes tumultuosus,Sapo de pecho espinoso de la Parva,Nativa,""En Peligro (EN), Rara"""
+3034,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes valdiviensis,Rana de pecho espinoso de Cordillera Pelada,Nativa,En Peligro (EN)
+"38,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes vanzolinii,Sapo de pecho espinoso de Vanzolini.,Nativa,""En Peligro (EN), Rara"""
+39,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes verrucosus,Sapo de pecho espinoso con verrugas,Nativa,En Peligro (EN)
+40,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Alsodes,Alsodes vittatus,Sapo de pecho espinoso de Malleco,Nativa,En peligro crítico (CR)
+1073,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria achirae,,Nativa,En peligro crítico (CR)
+"348,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria diluta,Lirio del campo,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+349,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria garaventae,Alstroemeria,Nativa,En Peligro (EN)
+1823,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria graminea,Lirio,Nativa,Vulnerable (VU)
+1075,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria lutea,,Nativa,En Peligro (EN)
+351,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria magenta,Alstroemeria,Nativa,Vulnerable (VU)
+"353,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria magnifica,Alstroemeria,Nativa,""Casi amenazada (NT), Vulnerable (VU)"""
+1076,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria mollensis,,Nativa,En peligro crítico (CR)
+354,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria monantha,Alstroemeria,Nativa,Vulnerable (VU)
+356,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria pelegrina,Alstroemeria,Nativa,Vulnerable (VU)
+358,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria polyphylla,Alstroemeria,Nativa,Vulnerable (VU)
+"360,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria pulchra,Alstroemeria,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+364,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria umbellata,Alstroemeria,Nativa,Vulnerable (VU)
+366,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria werdermannii,Alstroemeria,Nativa,Vulnerable (VU)
+367,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Alstroemeria,Alstroemeria zoellneri,Alstroemeria,Nativa,Vulnerable (VU)
+8223,1,Animalia,Arthropoda,Insecta,Coleoptera,Elateridae,Alyma,Alyma quiriquinaensis,,Nativa,En Peligro (EN)
+7446,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Ambrosiella,Ambrosiella kuscheli,,Nativa,En peligro crítico (CR)
+4657,1,Animalia,Annelida,Clitellata,Arhynchobdellida,Americobdellidae,Americobdella,Americobdella valdiviana,sanguijuela gigante Valdiviana,Nativa,En Peligro (EN)
+8254,1,Animalia,Chordata,Mammalia,Chiroptera,Furipteridae,Amorphochilus,Amorphochilus schnablii,Murciélago de Schnabel,Nativa,Vulnerable (VU)
+197,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Amphidoxa,Amphidoxa arctispira,caracol terrestre Amphidoxa,Nativa,En Peligro (EN)
+198,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Amphidoxa,Amphidoxa ceroides,caracol terrestre Amphidoxa,Nativa,En Peligro (EN)
+199,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Amphidoxa,Amphidoxa helicophantoides,caracol terrestre Amphidoxa,Nativa,En Peligro (EN)
+200,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Amphidoxa,Amphidoxa marmorella,caracol terrestre Amphidoxa,Nativa,En Peligro (EN)
+201,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Amphidoxa,Amphidoxa pusio,caracol terrestre Amphidoxa,Nativa,En Peligro (EN)
+202,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Amphidoxa,Amphidoxa quadrata,caracol terrestre Amphidoxa,Nativa,En Peligro (EN)
+203,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Amphidoxa,Amphidoxa selkirki,caracol terrestre Amphidoxa,Nativa,En Peligro (EN)
+204,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Amphidoxa,Amphidoxa tessellata,caracol terrestre Amphidoxa,Nativa,En Peligro (EN)
+"1,1,Animalia,Chordata,Aves,Passeriformes,Tyrannidae,Anairetes,Anairetes fernandezianus,Cachudito de Juan Fernández,Nativa,""En Peligro (EN), Rara"""
+8397,1,Animalia,Arthropoda,Arachnida,Pseudoscorpiones,Chernetidae,Anaperochernes,Anaperochernes ambrosianus,seudoescorpión,Nativa,En peligro crítico (CR)
+2755,1,Animalia,Arthropoda,Insecta,Plecoptera,Grypopterygidae,Andiperla,Andiperla willinki,dragón de la Patagonia,Nativa,En Peligro (EN)
+1827,1,Plantae,Magnoliophyta,Magnoliopsida,Ranunculales,Ranunculaceae,Anemone,Anemone moorei,Pata de león,Nativa,En Peligro (EN)
+680,1,Animalia,Chordata,Aves,Charadriiformes,Laridae,Anous,Anous stolidus,Gaviotín de San Félix,Nativa,Vulnerable (VU)
+2,1,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Aphrastura,Aphrastura masafuerae,Rayadito de Más Afuera,Nativa,En peligro crítico (CR)
+1077,1,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Apium,Apium fernandezianum,Panul,Nativa,En Peligro (EN)
+824,1,Animalia,Chordata,Actinopterygii,Osmeriformes,Galaxiidae,Aplochiton,Aplochiton marinus,Peladilla,Nativa,En Peligro (EN)
+825,1,Animalia,Chordata,Actinopterygii,Osmeriformes,Galaxiidae,Aplochiton,Aplochiton taeniatus,Peladilla,Nativa,En Peligro (EN)
+818,1,Animalia,Chordata,Actinopterygii,Osmeriformes,Galaxiidae,Aplochiton,Aplochiton zebra,Peladilla,Nativa,En Peligro (EN)
+2763,1,Animalia,Arthropoda,Insecta,Coleoptera,Lucanidae,Apterodorcus,Apterodorcus tristis,mancapollo,Nativa,En Peligro (EN)
+"240,1,Plantae,Coniferophyta,Pinopsida,Pinales,Araucariaceae,Araucaria,Araucaria araucana,Araucaria,Nativa,""En Peligro (EN), Vulnerable (VU)"""
+245,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Archidasyphyllum,Archidasyphyllum excelsum,Palo santo,Nativa,En Peligro (EN)
+155,1,Animalia,Chordata,Mammalia,Carnivora,Otariidae,Arctocephalus,Arctocephalus philippii,Juan Fernandez fur seal,Nativa,Vulnerable (VU)
+1830,1,Plantae,Magnoliophyta,Magnoliopsida,Papaverales,Papaveraceae,Argemone,Argemone crassifolia,Cardo blanco,Nativa,Extinta (EX)
+1078,1,Plantae,Magnoliophyta,Magnoliopsida,Scrophulariales,Bignoniaceae,Argylia,Argylia bifrons,Terciopelo,Nativa,En Peligro (EN)
+266,1,Plantae,Pteridophyta,Filicopsida,Filicales,Oleandraceae,Arthropteris,Arthropteris altescandens,Helecho,Nativa,Vulnerable (VU)
+"368,1,Plantae,Pteridophyta,Filicopsida,Filicales,Aspleniaceae,Asplenium,Asplenium dareoides,Filu-lahuén,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+370,1,Plantae,Pteridophyta,Filicopsida,Filicales,Aspleniaceae,Asplenium,Asplenium gilliesii,,Nativa,En peligro crítico (CR)
+"267,1,Plantae,Pteridophyta,Filicopsida,Filicales,Aspleniaceae,Asplenium,Asplenium macrosorum,,Nativa,""En Peligro (EN), Rara"""
+"372,1,Plantae,Pteridophyta,Filicopsida,Filicales,Aspleniaceae,Asplenium,Asplenium obtusatum,,Nativa,""En Peligro (EN), En peligro crítico (CR), Preocupación menor (LC)"""
+369,1,Plantae,Pteridophyta,Filicopsida,Filicales,Aspleniaceae,Asplenium,Asplenium peruvianum,,Nativa,En peligro crítico (CR)
+374,1,Plantae,Pteridophyta,Filicopsida,Filicales,Aspleniaceae,Asplenium,Asplenium polyodon,Helecho doradilla,Nativa,En peligro crítico (CR)
+"268,1,Plantae,Pteridophyta,Filicopsida,Filicales,Aspleniaceae,Asplenium,Asplenium stellatum,Helecho,Nativa,""En Peligro (EN), Rara"""
+"375,1,Plantae,Pteridophyta,Filicopsida,Filicales,Aspleniaceae,Asplenium,Asplenium trilobum,,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+8224,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Astragalus,Astragalus trifoliatus,Garbancillo (nombre genérico),Nativa,En peligro crítico (CR)
+1831,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Astragalus,Astragalus valerianensis,,Nativa,Extinta (EX)
+8256,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Atriplex,Atriplex chapinii,,Nativa,En peligro crítico (CR)
+965,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Atriplex,Atriplex coquimbana,Cachiyuyo,Nativa,En Peligro (EN)
+8225,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Atriplex,Atriplex costellata,,Nativa,En Peligro (EN)
+1832,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Atriplex,Atriplex taltalensis,Cachiyuyo,Nativa,En Peligro (EN)
+8226,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Atriplex,Atriplex vallenarensis,,Nativa,En Peligro (EN)
+386,1,Plantae,Pteridophyta,Filicopsida,Filicales,Blechnaceae,Austroblechnum,Austroblechnum corralense,,Nativa,Vulnerable (VU)
+271,1,Plantae,Pteridophyta,Filicopsida,Filicales,Blechnaceae,Austroblechnum,Austroblechnum fernandezianum,Helecho,Nativa,En Peligro (EN)
+"65,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Austrocactus,Austrocactus patagonicus,cactus patagónico,Nativa,""En Peligro (EN), Rara"""
+"66,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Austrocactus,Austrocactus philippii,Cacto hiberno,Nativa,""En Peligro (EN), Rara"""
+"67,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Austrocactus,Austrocactus spiniflorus,Cacto spinifloro,Nativa,""En Peligro (EN), Rara"""
+"241,1,Plantae,Coniferophyta,Pinopsida,Pinales,Cupressaceae,Austrocedrus,Austrocedrus chilensis,Ciprés de la Cordillera,Nativa,""Casi amenazada (NT), Vulnerable (VU)"""
+"488,1,Plantae,Pteridophyta,Lycopodiopsida,Lycopodales,Lycopodiaceae,Austrolycopodium,Austrolycopodium paniculatum,Palmita,Nativa,""En peligro crítico (CR), Preocupación menor (LC)"""
+"23,1,Plantae,Magnoliophyta,Magnoliopsida,Euphorbiales,Euphorbiaceae,Avellanita,Avellanita bustillosii,Avellanita,Nativa,""En Peligro (EN), Rara"""
+1834,1,Plantae,Magnoliophyta,Magnoliopsida,Violales,Flacourtiaceae,Azara,Azara serrata var. fernandeziana,Corcolén,Nativa,En peligro crítico (CR)
+242,1,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Azorella,Azorella compacta,Llareta,Nativa,Vulnerable (VU)
+787,1,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera borealis,Ballena sei o Rorcual boreal,Nativa,En peligro crítico (CR)
+156,1,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera musculus,Ballena azul,Nativa,En Peligro (EN)
+788,1,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera physalus,Ballena fin,Nativa,En peligro crítico (CR)
+"162,1,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinopsidae,Basilichthys,Basilichthys australis,Pejerrey chileno,Nativa,""Casi amenazada (NT), Vulnerable (VU)"""
+163,1,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinopsidae,Basilichthys,Basilichthys microlepidotus,Pejerrey,Nativa,Vulnerable (VU)
+164,1,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinopsidae,Basilichthys,Basilichthys semotilus,Pejerrey,Nativa,En Peligro (EN)
+68,1,Plantae,Magnoliophyta,Magnoliopsida,Laurales,Lauraceae,Beilschmiedia,Beilschmiedia berteroana,belloto del sur,Nativa,En Peligro (EN)
+69,1,Plantae,Magnoliophyta,Magnoliopsida,Laurales,Lauraceae,Beilschmiedia,Beilschmiedia miersii,belloto del norte,Nativa,Vulnerable (VU)
+378,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Benthamiella,Benthamiella azorella,Benthamiella,Nativa,En Peligro (EN)
+379,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Benthamiella,Benthamiella lanata,Benthamiella,Nativa,En Peligro (EN)
+380,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Benthamiella,Benthamiella nordenskjoldii,Benthamiella,Nativa,Vulnerable (VU)
+381,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Benthamiella,Benthamiella patagonica,Benthamiella,Nativa,Vulnerable (VU)
+"24,1,Plantae,Magnoliophyta,Magnoliopsida,Violales,Berberidopsidaceae,Berberidopsis,Berberidopsis corallina,Michay rojo,Nativa,""En Peligro (EN), Rara"""
+967,1,Plantae,Magnoliophyta,Magnoliopsida,Ranunculales,Berberidaceae,Berberis,Berberis corymbosa,Michay,Nativa,En peligro crítico (CR)
+"25,1,Plantae,Magnoliophyta,Magnoliopsida,Ranunculales,Berberidaceae,Berberis,Berberis litoralis,Michay de paposo,Nativa,""En Peligro (EN), Rara"""
+968,1,Plantae,Magnoliophyta,Magnoliopsida,Ranunculales,Berberidaceae,Berberis,Berberis masafuerana,Michay,Nativa,En peligro crítico (CR)
+"70,1,Plantae,Magnoliophyta,Magnoliopsida,Ranunculales,Berberidaceae,Berberis,Berberis negeriana,michay de Neger,Nativa,""En Peligro (EN), Rara"""
+5395,1,Animalia,Mollusca,Gastropoda,Hygrophila,Planorbidae,Biomphalaria,Biomphalaria costata,Caracol de agua dulce,Nativa,En peligro crítico (CR)
+"71,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Bipinnula,Bipinnula taltalensis,orquídea de Paposo,Nativa,""En Peligro (EN), Rara"""
+1833,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Bipinnula,Bipinnula volkmannii,,Nativa,En Peligro (EN)
+959,1,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Urticaceae,Boehmeria,Boehmeria excelsa,Manzano de Juan Fernández,Nativa,En peligro crítico (CR)
+2769,1,Animalia,Arthropoda,Insecta,Coleoptera,Geotrupidae,Bolborhinum,Bolborhinum trilobulicorne,,Nativa,En Peligro (EN)
+8398,1,Fungi,Basidiomycota,Basidiomycetes/Agaricomycetes,Boletales,Boletaceae,Boletus,Boletus chilensis,callampa (genérico),Nativa,En Peligro (EN)
+8399,1,Fungi,Basidiomycota,Basidiomycetes/Agaricomycetes,Boletales,Boletaceae,Boletus,Boletus loyita,pichiloyo,Nativa,Vulnerable (VU)
+5396,1,Fungi,Basidiomycota,Basidiomycetes/Agaricomycetes,Boletales,Boletaceae,Boletus,Boletus loyo,Loyo,Nativa,En Peligro (EN)
+"72,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Bomarea,Bomarea dulcis,,Nativa,""En Peligro (EN), Rara"""
+"73,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Bomarea,Bomarea involucrosa,Sulla-sulla (en Perú),Nativa,""En Peligro (EN), Rara"""
+5442,1,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Bombus,Bombus dahlbomii,abejorro nativo,Nativa,En Peligro (EN)
+8257,1,Animalia,Arthropoda,Arachnida,Scorpiones,Bothriuridae,Brachistosternus,Brachistosternus cepedai,Escorpión de Cepeda,Nativa,En Peligro (EN)
+165,1,Animalia,Chordata,Actinopterygii,Osmeriformes,Galaxiidae,Brachygalaxias,Brachygalaxias bullocki,Puye,Nativa,Vulnerable (VU)
+389,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Browningia,Browningia candelaris,Cactus candelabro,Nativa,Vulnerable (VU)
+166,1,Animalia,Chordata,Actinopterygii,Siluriformes,Trichomycteridae,Bullockia,Bullockia maldonadoi,Bagrecito,Nativa,En Peligro (EN)
+699,1,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Buteo,Buteo ventralis,Aguilucho de cola rojiza,Nativa,Vulnerable (VU)
+1079,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Calceolariaceae,Calceolaria,Calceolaria campanae,capachito,Nativa,Vulnerable (VU)
+2830,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Calceolariaceae,Calceolaria,Calceolaria pallida,,Nativa,En Peligro (EN)
+1080,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Calceolariaceae,Calceolaria,Calceolaria verbascifolia,capachito,Nativa,Vulnerable (VU)
+1081,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Calceolariaceae,Calceolaria,Calceolaria viscosissima,capachito,Nativa,En Peligro (EN)
+925,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Calceolariaceae,Calceolaria,Calceolaria williamsii,capachito,Nativa,En Peligro (EN)
+44,1,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Calidris,Calidris canutus,Playero ártico,Nativa,En Peligro (EN)
+2767,1,Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Callisphyris,Callisphyris ficheti,Sierra del orocoipo,Nativa,En peligro crítico (CR)
+2775,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Callyntra,Callyntra cantillana,Cascarudo de Cantillana,Nativa,En Peligro (EN)
+2777,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Callyntra,Callyntra hibrida,Cascarudo del Poqui,Nativa,En peligro crítico (CR)
+5399,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Callyntra,Callyntra multicosta,Cascarudo de Las Docas,Nativa,En Peligro (EN)
+2776,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Callyntra,Callyntra penai,Cascarudo de Peña,Nativa,En Peligro (EN)
+2774,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Callyntra,Callyntra planiuscula,Cascarudo de La Plata,Nativa,En Peligro (EN)
+"74,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Iridaceae,Calydorea,Calydorea xiphioides,Violeta,Nativa,""Rara, Vulnerable (VU)"""
+45,1,Animalia,Chordata,Amphibia,Anura,Calyptocephalellidae,Calyptocephalella,Calyptocephalella gayi,Rana chilena,Nativa,Vulnerable (VU)
+"721,1,Animalia,Chordata,Aves,Piciformes,Picidae,Campephilus,Campephilus magellanicus,Carpintero negro,Nativa,""En Peligro (EN), Vulnerable (VU)"""
+1096,1,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,Cardamine,Cardamine kruesselii,,Nativa,En peligro crítico (CR)
+666,1,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Caretta,Caretta caretta,Tortuga boba,Nativa,En peligro crítico (CR)
+1097,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Cyperaceae,Carex,Carex berteroniana,cortadera,Nativa,En Peligro (EN)
+243,1,Plantae,Magnoliophyta,Magnoliopsida,Brassicales,Caricaceae,Carica,Carica chilensis,Palo Gordo,Nativa,Vulnerable (VU)
+2832,1,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia,Cavia tschudii,Cuy peruano,Nativa,Vulnerable (VU)
+"273,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Centaurodendron,Centaurodendron dracaenoides,,Nativa,""En Peligro (EN), Rara"""
+"274,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Centaurodendron,Centaurodendron palmiforme,,Nativa,""En Peligro (EN), Rara"""
+2780,1,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Centris,Centris moldenkei,,Nativa,Vulnerable (VU)
+2779,1,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Centris,Centris tamarugalis,,Nativa,Vulnerable (VU)
+157,1,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Cephalorhynchus,Cephalorhynchus commersoni,Tonina overa,Nativa,En Peligro (EN)
+"158,1,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Cephalorhynchus,Cephalorhynchus eutropia,Delfín chileno,Nativa,""Casi amenazada (NT), Vulnerable (VU)"""
+2833,1,Animalia,Chordata,Mammalia,Xenarthra,Dasypodidae,Chaetophractus,Chaetophractus nationi,Quirquincho peludo de la Puna,Nativa,Vulnerable (VU)
+8401,1,Animalia,Chordata,Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius nivosus,chorlo nevado,Nativa,Vulnerable (VU)
+205,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Charopa,Charopa involuta,caracol terrestre Charopa,Nativa,En Peligro (EN)
+206,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Charopa,Charopa masafuerae,caracol terrestre Charopa,Nativa,En Peligro (EN)
+167,1,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,Cheirodon,Cheirodon australe,Pocha del sur,Nativa,Vulnerable (VU)
+168,1,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,Cheirodon,Cheirodon galusdae,Pocha de los lagos,Nativa,Vulnerable (VU)
+"169,1,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,Cheirodon,Cheirodon kiliani,Pocha,Nativa,""En Peligro (EN), Rara"""
+170,1,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,Cheirodon,Cheirodon pisciculus,Pocha,Nativa,Vulnerable (VU)
+8402,1,Animalia,Arthropoda,Arachnida,Pseudoscorpiones,Chernetidae,Chelanops,Chelanops pugil,seudoescorpión,Nativa,En peligro crítico (CR)
+775,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Chelemys,Chelemys delfini,Ratón topo del Estrecho de Magallanes,Nativa,Vulnerable (VU)
+776,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Chelemys,Chelemys megalonyx,Ratón topo del matorral,Nativa,Vulnerable (VU)
+7586,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Charopidae,Chellius,Chellius piramidalis,Caracol de concha piramidal,Nativa,En peligro crítico (CR)
+667,1,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Chelonia,Chelonia mydas,Tortuga verde,Nativa,En Peligro (EN)
+"275,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Chenopodium,Chenopodium crusoeanum,,Nativa,""En Peligro (EN), Rara"""
+276,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Chenopodium,Chenopodium nesodendron,,Nativa,En peligro crítico (CR)
+"277,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Chenopodium,Chenopodium sanctae-clarae,Chenopodio,Nativa,""En Peligro (EN), Rara"""
+8261,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Chenopodium,Chenopodium sancti-ambrosii,,Nativa,En peligro crítico (CR)
+2764,1,Animalia,Arthropoda,Insecta,Coleoptera,Lucanidae,Chiasognathus,Chiasognathus jousselini,Cantárida,Nativa,En peligro crítico (CR)
+761,1,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla,Chinchilla brevicaudata,Chinchilla cordillerana,Nativa,En Peligro (EN)
+2736,1,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla,Chinchilla chinchilla,Chinchilla de cola corta,Nativa,En peligro crítico (CR)
+762,1,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Chinchilla,Chinchilla lanigera,Chinchilla de cola larga,Nativa,En Peligro (EN)
+3421,1,Animalia,Chordata,Aves,Anseriformes,Anatidae,Chloephaga,Chloephaga hybrida,Caranca,Nativa,Vulnerable (VU)
+3,1,Animalia,Chordata,Aves,Anseriformes,Anatidae,Chloephaga,Chloephaga rubidiceps,Canquén colorado,Nativa,En Peligro (EN)
+2838,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Chloraea,Chloraea cristata,,Nativa,Vulnerable (VU)
+2853,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Chloraea,Chloraea cuneata,,Nativa,En peligro crítico (CR)
+2854,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Chloraea,Chloraea disoides,,Nativa,En peligro crítico (CR)
+2855,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Chloraea,Chloraea heteroglossa,,Nativa,En peligro crítico (CR)
+2856,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Chloraea,Chloraea prodigiosa,,Nativa,En Peligro (EN)
+2857,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Chloraea,Chloraea volkmannii,,Nativa,En peligro crítico (CR)
+969,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Poaceae,Chusquea,Chusquea fernandeziana,colihue,Nativa,En peligro crítico (CR)
+149,1,Animalia,Chordata,Aves,Passeriformes,Furnariidae,Cinclodes,Cinclodes oustaleti baeckstroemii,Churreta,Nativa,Vulnerable (VU)
+4582,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Portulacaceae,Cistanthe,Cistanthe cachinalensis,Pata de guanaco,Nativa,En Peligro (EN)
+5401,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Portulacaceae,Cistanthe,Cistanthe stricta,Sin nombre común,Nativa,Extinta (EX)
+395,1,Plantae,Magnoliophyta,Magnoliopsida,Celastrales,Icacinaceae,Citronella,Citronella mucronata,Huillipatagua,Nativa,Vulnerable (VU)
+2762,1,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,Cnemalobus,Cnemalobus convexus,,Nativa,Vulnerable (VU)
+2760,1,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,Cnemalobus,Cnemalobus hirsutus,,Nativa,En Peligro (EN)
+2759,1,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,Cnemalobus,Cnemalobus nuria,,Nativa,En Peligro (EN)
+2761,1,Animalia,Arthropoda,Insecta,Coleoptera,Carabidae,Cnemalobus,Cnemalobus pegnai,,Nativa,En peligro crítico (CR)
+970,1,Plantae,Magnoliophyta,Magnoliopsida,Rhamnales,Rhamnaceae,Colletia,Colletia spartioides,,Nativa,En peligro crítico (CR)
+396,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Tecophilaeaceae,Conanthera,Conanthera sabulosa,,Nativa,En Peligro (EN)
+397,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Tecophilaeaceae,Conanthera,Conanthera urceolata,,Nativa,En Peligro (EN)
+5403,1,Animalia,Arthropoda,Insecta,Coleoptera,Buprestidae,Conognatha,Conognatha azarae fisheri,Balita del Olivillo,Nativa,En Peligro (EN)
+5404,1,Animalia,Arthropoda,Insecta,Coleoptera,Buprestidae,Conognatha,Conognatha leechi,Insecto Joya de Leech,Nativa,En Peligro (EN)
+5405,1,Animalia,Arthropoda,Insecta,Coleoptera,Buprestidae,Conognatha,Conognatha obenbergeri,Balita,Nativa,Vulnerable (VU)
+2758,1,Animalia,Arthropoda,Insecta,Orthoptera,Ommexechidae,Conometopus,Conometopus penai,,Nativa,En Peligro (EN)
+1098,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Conyza,Conyza copiapina,,Nativa,Extinta (EX)
+8262,1,Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Copestylum,Copestylum azureum,Mosco azul de los cactus,Nativa,Vulnerable (VU)
+8263,1,Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Copestylum,Copestylum nigripes,Mosco azul de cara roja,Nativa,En Peligro (EN)
+8264,1,Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Copestylum,Copestylum rufoscutellare,Mosco de escutelo rojo,Nativa,En Peligro (EN)
+8265,1,Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Copestylum,Copestylum saphirinum,Mosco azul enano,Nativa,Vulnerable (VU)
+"75,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa ahremephiana,cactus,Nativa,""En Peligro (EN), Rara"""
+"76,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa aphanes,cactus,Nativa,""En Peligro (EN), Rara"""
+398,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa boliviana,Atacameño,Nativa,Vulnerable (VU)
+399,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa calderana,,Nativa,Vulnerable (VU)
+404,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa dealbata,copiapoa de Carrizal,Nativa,Vulnerable (VU)
+1185,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa fiedleriana,,Nativa,En Peligro (EN)
+401,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa grandiflora,,Nativa,En Peligro (EN)
+409,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa humilis,Humildito,Nativa,Vulnerable (VU)
+"77,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa hypogaea,Cactus bajotierra,Nativa,""En Peligro (EN), Rara"""
+410,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa krainziana,Chascón,Nativa,En peligro crítico (CR)
+"78,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa laui,cactus,Nativa,""En Peligro (EN), Rara"""
+411,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa longistaminea,Copiapoa de Adriana,Nativa,Vulnerable (VU)
+79,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa megarhiza,cactus raizón,Nativa,Vulnerable (VU)
+80,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa montana,cactus,Nativa,En Peligro (EN)
+405,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa rupestris,Quisco del desierto,Nativa,En Peligro (EN)
+413,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa serpentisulcata,cacto de la serpiente,Nativa,En Peligro (EN)
+"81,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa solaris,Cactus solar,Nativa,""En Peligro (EN), Rara"""
+82,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa taltalensis,Quisco del desierto,Nativa,En Peligro (EN)
+415,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Copiapoa,Copiapoa tocopillana,Tocopillano,Nativa,En Peligro (EN)
+960,1,Plantae,Magnoliophyta,Magnoliopsida,Rubiales,Rubiaceae,Coprosma,Coprosma oliveri,olivillo,Nativa,En peligro crítico (CR)
+961,1,Plantae,Magnoliophyta,Magnoliopsida,Rubiales,Rubiaceae,Coprosma,Coprosma pyrifolia,peralillo,Nativa,En Peligro (EN)
+8232,1,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae/Palaua,Corynabutilon,Corynabutilon hirsutum,,Nativa,En Peligro (EN)
+8233,1,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae/Palaua,Corynabutilon,Corynabutilon salicifolium,Huella,Nativa,En peligro crítico (CR)
+674,1,Animalia,Chordata,Aves,Anseriformes,Anatidae,Coscoroba,Coscoroba coscoroba,Cisne coscoroba,Nativa,En Peligro (EN)
+"270,1,Plantae,Pteridophyta,Filicopsida,Filicales,Blechnaceae,Cranfillia,Cranfillia longicauda,Helecho,Nativa,""En Peligro (EN), Rara"""
+1099,1,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae/Palaua,Cristaria,Cristaria calderana,,Nativa,Vulnerable (VU)
+"83,1,Plantae,Magnoliophyta,Magnoliopsida,Euphorbiales,Euphorbiaceae,Croton,Croton chilensis,Higuerilla de Paposo,Nativa,""En Peligro (EN), Rara"""
+639,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Palaemonidae,Cryphiops,Cryphiops caementarius,Camarón de río del norte,Nativa,Vulnerable (VU)
+760,1,Animalia,Chordata,Mammalia,Rodentia,Ctenomydae,Ctenomys,Ctenomys fulvus,Tuco-tuco de Atacama,Nativa,Vulnerable (VU)
+"759,1,Animalia,Chordata,Mammalia,Rodentia,Ctenomydae,Ctenomys,Ctenomys magellanicus,Tuco-tuco de Magallanes,Nativa,""Extinta (EX), Vulnerable (VU)"""
+971,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,Cuminia,Cuminia eriantha,Mentita de Juan Fernández,Nativa,En peligro crítico (CR)
+972,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,Cuminia,Cuminia fernandezia,Mentita de Juan Fernández,Nativa,En peligro crítico (CR)
+"4,1,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Cyanoliseus,Cyanoliseus patagonus,Tricahue,Nativa,""En Peligro (EN), Vulnerable (VU)"""
+"675,1,Animalia,Chordata,Aves,Anseriformes,Anatidae,Cygnus,Cygnus melancoryphus,Cisne de cuello negro,Nativa,""En Peligro (EN), Vulnerable (VU)"""
+"419,1,Plantae,Pteridophyta,Filicopsida,Filicales,Woodsiaceae,Cystopteris,Cystopteris fragilis,Palmilla,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"2784,1,Fungi,Ascomycota,Ascomycetes,Helotiales,Cyttariaceae,Cyttaria,Cyttaria berteroi,Pinatra,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"26,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Dalea,Dalea azurea,Dalea,Nativa,""En Peligro (EN), Rara"""
+"278,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris berteroana,Col de Juan Fernández,Nativa,""En Peligro (EN), Rara"""
+"279,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris gigantea,,Nativa,""En Peligro (EN), Rara"""
+"280,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris litoralis,Col de Juan Fernández,Nativa,""En Peligro (EN), Rara"""
+"281,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris macrantha,Colecillo,Nativa,""En Peligro (EN), Rara"""
+"282,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris macrophylla,Colecillo,Nativa,""En Peligro (EN), Rara"""
+"283,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris marginata,Colecillo,Nativa,""En Peligro (EN), Rara"""
+"284,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris micrantha,Col de Juan Fernández,Nativa,""En Peligro (EN), Rara"""
+"285,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris neriifolia,Colecillo,Nativa,""En Peligro (EN), Rara"""
+"286,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris pinnata,Col de Juan Fernández,Nativa,""En Peligro (EN), Rara"""
+"287,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris pruinata,Col de Juan Fernández,Nativa,""En Peligro (EN), Rara"""
+"288,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Dendroseris,Dendroseris regia,,Nativa,""En Peligro (EN), Rara"""
+668,1,Animalia,Chordata,Reptilia,Testudines,Dermochelydae,Dermochelys,Dermochelys coriacea,Tortuga laúd,Nativa,En peligro crítico (CR)
+"246,1,Plantae,Magnoliophyta,Liliopsida,Bromeliales,Bromeliaceae,Deuterocohnia,Deuterocohnia chrysantha,Chaguar del jote,Nativa,""Rara, Vulnerable (VU)"""
+"289,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dicksoniaceae,Dicksonia,Dicksonia berteroana,Dicksonia,Nativa,""En Peligro (EN), Rara"""
+290,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dicksoniaceae,Dicksonia,Dicksonia externa,Dicksonia,Nativa,Vulnerable (VU)
+"84,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Acanthaceae,Dicliptera,Dicliptera paposana,Dicliptera,Nativa,""En Peligro (EN), Rara"""
+5409,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Dioscoreaceae,Dioscorea,Dioscorea longipes,,Nativa,Vulnerable (VU)
+422,1,Plantae,Pteridophyta,Filicopsida,Filicales,Woodsiaceae,Diplazium,Diplazium fuenzalidae,,Nativa,En peligro crítico (CR)
+830,1,Animalia,Chordata,Reptilia,Squamata,Leiosauridae,Diplolaemus,Diplolaemus bibronii,Cabezón de Bibron,Nativa,Vulnerable (VU)
+8196,1,Animalia,Chordata,Reptilia,Squamata,Leiosauridae,Diplolaemus,Diplolaemus darwinii,Cabezón de Darwin,Nativa,Vulnerable (VU)
+171,1,Animalia,Chordata,Actinopterygii,Siluriformes,Diplomystidae,Diplomystes,Diplomystes camposensis,Tollo,Nativa,En Peligro (EN)
+"172,1,Animalia,Chordata,Actinopterygii,Siluriformes,Diplomystidae,Diplomystes,Diplomystes chilensis,Tollo de agua dulce,Nativa,""En Peligro (EN), Rara"""
+173,1,Animalia,Chordata,Actinopterygii,Siluriformes,Diplomystidae,Diplomystes,Diplomystes nahuelbutaensis,Tollo,Nativa,En Peligro (EN)
+8195,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Diplostephium,Diplostephium cinereum,Koba Hembra,Nativa,Vulnerable (VU)
+423,1,Plantae,Pteridophyta,Filicopsida,Filicales,Blechnaceae,Doodia,Doodia paschalis,,Nativa,En peligro crítico (CR)
+291,1,Plantae,Magnoliophyta,Magnoliopsida,Magnoliales,Winteraceae,Drimys,Drimys confertifolia,Canelo de Juan Fernández,Nativa,En Peligro (EN)
+"2752,1,Plantae,Magnoliophyta,Magnoliopsida,Magnoliales,Winteraceae,Drimys,Drimys winteri,Canelo,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+424,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dryopteridaceae,Dryopteris,Dryopteris karwinskyana,,Nativa,Vulnerable (VU)
+1100,1,Plantae,Magnoliophyta,Magnoliopsida,Euphorbiales,Euphorbiaceae,Dysopsis,Dysopsis hirsuta,,Nativa,En peligro crítico (CR)
+"85,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Echinopsis,Echinopsis bolligeriana,Quisco de los acantilados,Nativa,""En Peligro (EN), Rara"""
+247,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Echinopsis,Echinopsis glauca,Cacto,Nativa,Extinta (EX)
+429,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Echinopsis,Echinopsis litoralis,,Nativa,Vulnerable (VU)
+434,1,Plantae,Pteridophyta,Filicopsida,Filicales,Lomariopsidaceae,Elaphoglossum,Elaphoglossum fonkii,Helecho escamoso,Nativa,Vulnerable (VU)
+437,1,Plantae,Pteridophyta,Filicopsida,Filicales,Lomariopsidaceae,Elaphoglossum,Elaphoglossum lindenii,,Nativa,En Peligro (EN)
+435,1,Plantae,Pteridophyta,Filicopsida,Filicales,Lomariopsidaceae,Elaphoglossum,Elaphoglossum porteri,,Nativa,Vulnerable (VU)
+436,1,Plantae,Pteridophyta,Filicopsida,Filicales,Lomariopsidaceae,Elaphoglossum,Elaphoglossum skottsbergii,,Nativa,En peligro crítico (CR)
+2757,1,Animalia,Arthropoda,Insecta,Orthoptera,Tristiridae,Elasmoderus,Elasmoderus minutus,Langosta,Nativa,Vulnerable (VU)
+8268,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Poaceae,Eragrostis,Eragrostis kuschelii,,Nativa,En peligro crítico (CR)
+2840,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Poaceae,Eragrostis,Eragrostis pycnantha,,Nativa,En Peligro (EN)
+8269,1,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Eretmochelys,Eretmochelys imbricata,Hawksbill Turtle,Nativa,En peligro crítico (CR)
+2766,1,Animalia,Arthropoda,Insecta,Coleoptera,Lucanidae,Erichius,Erichius franzae,,Nativa,Vulnerable (VU)
+5411,1,Animalia,Arthropoda,Insecta,Coleoptera,Lucanidae,Erichius,Erichius virgatus,Borrachito de Tolhuaca,Nativa,En Peligro (EN)
+292,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron fernandezianus,,Nativa,Vulnerable (VU)
+"293,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron ingae,,Nativa,""En Peligro (EN), Rara"""
+"294,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron luteoviridis,,Nativa,""En Peligro (EN), Rara"""
+295,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Erigeron,Erigeron rupicola,,Nativa,En Peligro (EN)
+2841,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Eriosyce,Eriosyce aspillagae,,Nativa,En Peligro (EN)
+439,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Eriosyce,Eriosyce aurata,Sandillón,Nativa,Vulnerable (VU)
+"88,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Eriosyce,Eriosyce laui,cactus,Nativa,""En Peligro (EN), Rara"""
+440,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Eriosyce,Eriosyce megacarpa,Sandillón de los ratones,Nativa,En Peligro (EN)
+441,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Eriosyce,Eriosyce rodentiophila,Sandillón de los ratones,Nativa,Vulnerable (VU)
+"5412,1,Animalia,Cnidaria,Hydrozoa,Anthomedusae,Stylasteridae,Errina,Errina antarctica,hidrocoral rojo,Nativa,""Datos Insuficientes (DD), Vulnerable (VU)"""
+973,1,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium,Eryngium bupleuroides,Pomponero,Nativa,En peligro crítico (CR)
+974,1,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium,Eryngium fernandezianum,,Nativa,En peligro crítico (CR)
+975,1,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium,Eryngium inaccessum,,Nativa,En peligro crítico (CR)
+976,1,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Apiaceae,Eryngium,Eryngium sarcophyllum,,Nativa,Extinta (EX)
+977,1,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Saxifragaceae,Escallonia,Escallonia callcottiae,Escalonia,Nativa,Vulnerable (VU)
+8270,1,Animalia,Arthropoda,Arachnida,Araneae,Theraphosidae,Euathlus,Euathlus antai,Araña pollito,Nativa,En peligro crítico (CR)
+8271,1,Animalia,Arthropoda,Arachnida,Araneae,Theraphosidae,Euathlus,Euathlus atacama,Araña pollito,Nativa,En peligro crítico (CR)
+8272,1,Animalia,Arthropoda,Arachnida,Araneae,Theraphosidae,Euathlus,Euathlus condorito,Araña pollito,Nativa,En peligro crítico (CR)
+159,1,Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Eubalaena,Eubalaena australis,Ballena franca austral,Nativa,En Peligro (EN)
+443,1,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Eucryphiaceae,Eucryphia,Eucryphia glutinosa,Guindo santo,Nativa,Vulnerable (VU)
+734,1,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Eudromia,Eudromia elegans,Martineta,Nativa,En Peligro (EN)
+734,1,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Eudromia,Eudromia elegans,Perdiz copetona,Nativa,En Peligro (EN)
+6,1,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Eulidia,Eulidia yarrellii,Picaflor de Arica,Nativa,En peligro crítico (CR)
+447,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Eulychnia,Eulychnia  castanea,,Nativa,Vulnerable (VU)
+452,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Eulychnia,Eulychnia aricensis,Copao de Arica,Nativa,En Peligro (EN)
+"89,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Eulychnia,Eulychnia iquiquensis,Copao de Iquique,Nativa,""En Peligro (EN), Vulnerable (VU)"""
+453,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Eulychnia,Eulychnia morromorenoensis,Copao,Nativa,Vulnerable (VU)
+978,1,Plantae,Magnoliophyta,Magnoliopsida,Scrophulariales,Scrophulariaceae,Euphrasia,Euphrasia formosissima,,Nativa,En peligro crítico (CR)
+5413,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Eupsophus,Eupsophus altor,Rana de hojarasca de Oncol,Nativa,En Peligro (EN)
+46,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Eupsophus,Eupsophus contulmoensis,Sapo de Contulmo,Nativa,En Peligro (EN)
+"47,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Eupsophus,Eupsophus insularis,Sapo de Isla Mocha,Nativa,""En Peligro (EN), Rara"""
+"48,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Eupsophus,Eupsophus migueli,Sapo de Miguel,Nativa,""En Peligro (EN), Rara"""
+"49,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Eupsophus,Eupsophus nahuelbutensis,Sapo de Nabuelbuta,Nativa,""En Peligro (EN), Rara"""
+658,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Eupsophus,Eupsophus roseus,Sapo,Nativa,Vulnerable (VU)
+2845,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Eupsophus,Eupsophus septentrionalis,Ranita de Los Queules,Nativa,En Peligro (EN)
+659,1,Animalia,Chordata,Amphibia,Anura,Alsodidae,Eupsophus,Eupsophus vertebralis,Sapo,Nativa,Vulnerable (VU)
+"296,1,Plantae,Magnoliophyta,Magnoliopsida,Rutales,Rutaceae,Fagara,Fagara externa,Naranjillo,Nativa,""En Peligro (EN), Rara"""
+"297,1,Plantae,Magnoliophyta,Magnoliopsida,Rutales,Rutaceae,Fagara,Fagara mayu,Naranjillo,Nativa,""En Peligro (EN), Rara"""
+"703,1,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,Falco peregrinus,Halcón peregrino,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+148,1,Animalia,Chordata,Aves,Falconiformes,Falconidae,Falco,Falco sparverius fernandenzis,Cernícalo de Juan Fernández,Nativa,En Peligro (EN)
+454,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Amaryllidaceae,Famatina,Famatina maulensis,,Nativa,En Peligro (EN)
+207,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia  bulimoides,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+2729,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia bulimoides,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+208,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia conifera,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+209,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia consimilis,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+210,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia cylindrella,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+211,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia diaphana,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+212,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia expansa,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+213,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia inornata,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+214,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia longa,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+215,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia philippiana,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+216,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia splendida,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+217,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia tryoni,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+218,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Fernandezia,Fernandezia wilsoni,Caracol terrestre de Juan Fernández,Nativa,En Peligro (EN)
+249,1,Plantae,Coniferophyta,Pinopsida,Pinales,Cupressaceae,Fitzroya,Fitzroya cupressoides,Alerce,Nativa,En Peligro (EN)
+8274,1,Plantae,Magnoliophyta,Magnoliopsida,Violales,Frankeniaceae,Frankenia,Frankenia vidalii,,Nativa,En Peligro (EN)
+712,1,Animalia,Chordata,Aves,Pelecaniformes,Fregatidae,Fregata,Fregata minor,Ave fragata grande,Nativa,Vulnerable (VU)
+150,1,Animalia,Chordata,Aves,Procellariformes,Oceanitidae,Fregetta,Fregetta grallaria,Golondrina de mar de vientre blanco,Nativa,En Peligro (EN)
+706,1,Animalia,Chordata,Aves,Gruiformes,Rallidae,Fulica,Fulica gigantea,Tagua gigante,Nativa,Vulnerable (VU)
+"174,1,Animalia,Chordata,Actinopterygii,Osmeriformes,Galaxiidae,Galaxias,Galaxias globiceps,Puye,Nativa,""En Peligro (EN), Rara"""
+"175,1,Animalia,Chordata,Actinopterygii,Osmeriformes,Galaxiidae,Galaxias,Galaxias maculatus,Puye,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+782,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Galenomys,Galenomys garleppi,Laucha nortina,Nativa,Vulnerable (VU)
+1102,1,Plantae,Magnoliophyta,Magnoliopsida,Rubiales,Rubiaceae,Galium,Galium leptum,Lengua de gato,Nativa,En Peligro (EN)
+1103,1,Plantae,Magnoliophyta,Magnoliopsida,Rubiales,Rubiaceae,Galium,Galium masafueranum,,Nativa,En peligro crítico (CR)
+"298,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Gamochaeta,Gamochaeta fernandeziana,,Nativa,""En Peligro (EN), Rara"""
+5414,1,Fungi,Basidiomycota,Basidiomycetes/Agaricomycetes,Boletales,Boletaceae,Gastroboletus,Gastroboletus valdivianus,Desconocido,Nativa,En Peligro (EN)
+1066,1,Plantae,Magnoliophyta,Magnoliopsida,Ericales,Ericaceae,Gaultheria,Gaultheria racemulosa,,Nativa,Vulnerable (VU)
+5415,1,Plantae,Magnoliophyta,Magnoliopsida,Ericales,Ericaceae,Gaultheria,Gaultheria renjifoana,Chaura de Laraquete,Nativa,En peligro crítico (CR)
+"299,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Gavilea,Gavilea insularis,Orquídea de Selkirk,Nativa,""En Peligro (EN), Rara"""
+1104,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Gavilea,Gavilea kingii,Orquídea,Nativa,En Peligro (EN)
+177,1,Animalia,Chordata,Cephalaspidomorphi,Petromyzontiformes,Petromyzontidae,Geotria,Geotria australis,Lamprea de bolsa,Nativa,Vulnerable (VU)
+147,1,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Geranoaetus,Geranoaetus polyosoma exsul,Aguilucho de Juan Fernández,Nativa,En Peligro (EN)
+3761,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Gethyum,Gethyum atropurpureum,,Nativa,En Peligro (EN)
+1105,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Gethyum,Gethyum cuspidatum,,Nativa,Vulnerable (VU)
+455,1,Plantae,Magnoliophyta,Magnoliopsida,Apiales,Gilliesiaceae,Gilliesia,Gilliesia graminea,,Nativa,Vulnerable (VU)
+"2731,1,Plantae,Pteridophyta,Filicopsida,Filicales,Gleicheniaceae,Gleichenia,Gleichenia lepidota,Helecho,Nativa,""En Peligro (EN), Rara"""
+"300,1,Plantae,Pteridophyta,Filicopsida,Filicales,Gleicheniaceae,Gleichenia,Gleichnia lepidota,Helecho,Nativa,""En Peligro (EN), Rara"""
+611,1,Plantae,Pteridophyta,Filicopsida,Filicales,Gleicheniaceae,Gleichenia,Gleichnia squamulosus var gunckelianus,,Nativa,Vulnerable (VU)
+27,1,Plantae,Magnoliophyta,Magnoliopsida,Laurales,Gomortegaceae,Gomortega,Gomortega keule,Queule,Nativa,En Peligro (EN)
+"457,1,Plantae,Pteridophyta,Filicopsida,Filicales,Grammitidaceae,Grammitis,Grammitis magellanica,,Nativa,""En peligro crítico (CR), Preocupación menor (LC)"""
+"301,1,Plantae,Magnoliophyta,Liliopsida,Bromeliales,Bromeliaceae,Greigia,Greigia berteroi,Greigia,Nativa,""En Peligro (EN), Rara"""
+"90,1,Plantae,Magnoliophyta,Magnoliopsida,Cornales,Griseliniaceae,Griselinia,Griselinia carlomunozi,Griselinia de Paposo,Nativa,""En Peligro (EN), Rara"""
+1106,1,Plantae,Magnoliophyta,Magnoliopsida,Haloragales,Gunneraceae,Gunnera,Gunnera bracteata,Pangue,Nativa,Vulnerable (VU)
+1107,1,Plantae,Magnoliophyta,Magnoliopsida,Haloragales,Gunneraceae,Gunnera,Gunnera masafuerae,Pangue de masafuera,Nativa,Vulnerable (VU)
+1108,1,Plantae,Magnoliophyta,Magnoliopsida,Haloragales,Gunneraceae,Gunnera,Gunnera peltata,Pangue,Nativa,Vulnerable (VU)
+2859,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Gutierrezia,Gutierrezia neaeana,,Nativa,En Peligro (EN)
+2860,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Gutierrezia,Gutierrezia taltalensis,,Nativa,Vulnerable (VU)
+1825,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Gyriosomus,Gyriosomus angustus,Vaquita del desierto,Nativa,En Peligro (EN)
+1826,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Gyriosomus,Gyriosomus granulipennis,Vaquita de la Isla Choros,Nativa,Vulnerable (VU)
+250,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Haageocereus,Haageocereus australis,Cacto,Nativa,Vulnerable (VU)
+979,1,Plantae,Magnoliophyta,Magnoliopsida,Haloragales,Haloragaceae,Haloragis,Haloragis masafuerana,Haloragis,Nativa,En peligro crítico (CR)
+980,1,Plantae,Magnoliophyta,Magnoliopsida,Haloragales,Haloragaceae,Haloragis,Haloragis masatierrana,Haloragis,Nativa,Vulnerable (VU)
+91,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Haplopappus,Haplopappus taeda,Baylahuén,Nativa,Vulnerable (VU)
+461,1,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Anacardiaceae,Haplorhus,Haplorhus peruviana,Carza,Nativa,Vulnerable (VU)
+178,1,Animalia,Chordata,Actinopterygii,Siluriformes,Trichomycteridae,Hatcheria,Hatcheria macraei,Bagre,Nativa,Vulnerable (VU)
+5417,1,Animalia,Mollusca,Gastropoda,Caenogastropoda/ Sorbeoconcha,Cochliopidae,Heleobia,Heleobia ascotanensis,Caracol,Nativa,En Peligro (EN)
+5418,1,Animalia,Mollusca,Gastropoda,Caenogastropoda/ Sorbeoconcha,Cochliopidae,Heleobia,Heleobia atacamensis,Caracol,Nativa,En peligro crítico (CR)
+5237,1,Animalia,Mollusca,Gastropoda,Caenogastropoda/ Sorbeoconcha,Cochliopidae,Heleobia,Heleobia chimbaensis,Caracol de vertiente,Nativa,Vulnerable (VU)
+5419,1,Animalia,Mollusca,Gastropoda,Caenogastropoda/ Sorbeoconcha,Cochliopidae,Heleobia,Heleobia transitoria,Caracol,Nativa,En peligro crítico (CR)
+981,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,Heliotropium,Heliotropium filifolium,Palo negro,Nativa,Vulnerable (VU)
+1063,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,Heliotropium,Heliotropium glutinosum,Palo negro,Nativa,Vulnerable (VU)
+7,1,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Hippocamelus,Hippocamelus antisensis,Taruca,Nativa,En Peligro (EN)
+8,1,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Hippocamelus,Hippocamelus bisulcus,Huemul,Nativa,En Peligro (EN)
+"463,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dennstaedtiaceae,Histiopteris,Histiopteris incisa,,Nativa,""En peligro crítico (CR), Vulnerable (VU)"""
+8275,1,Animalia,Chordata,Mammalia,Chiroptera,Vespertilionidae,Histiotus,Histiotus laephotis,Murciélago orejudo de Thomas,Nativa,En Peligro (EN)
+464,1,Plantae,Pteridophyta,Lycopodiopsida,Lycopodales,Lycopodiaceae,Huperzia,Huperzia fuegiana,,Nativa,Vulnerable (VU)
+"467,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum cuneatum,,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"302,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum cuneatum var. rariforme,Helecho película,Nativa,""En Peligro (EN), Rara"""
+"469,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum falklandicum,,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"470,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum ferrugineum,,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"471,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum fuciforme,,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"473,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum pectinatum,,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+303,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum rugosum,Helecho película,Nativa,Vulnerable (VU)
+"475,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum secundum,,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"476,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum tortuosum,,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+2863,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Hymenophyllum,Hymenophyllum umbratile,,Nativa,Vulnerable (VU)
+"477,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dennstaedtiaceae,Hypolepis,Hypolepis poeppigii,Pesebre,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"51,1,Animalia,Chordata,Amphibia,Anura,Rhinodermatidae,Insuetophrynus,Insuetophrynus acarpicus,Sapo de Mehuín,Nativa,""En Peligro (EN), Rara"""
+248,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Islaya,Islaya iquiquensis,Ariqueño,Nativa,Vulnerable (VU)
+87,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Islaya,Islaya islayensis,,Nativa,En Peligro (EN)
+523,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Islaya,Islaya krainziana,Erizo de Krainz,Nativa,En Peligro (EN)
+2666,1,Plantae,Pteridophyta,Lycopodiopsida,Isoetales,Isoetaceae,Isoetes,Isoetes araucaniana,,Nativa,En Peligro (EN)
+478,1,Plantae,Pteridophyta,Lycopodiopsida,Isoetales,Isoetaceae,Isoetes,Isoetes hieronymi,,Nativa,En peligro crítico (CR)
+1126,1,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,Ivania,Ivania cremnophila,Yerba gato,Nativa,Extinta (EX)
+304,1,Plantae,Magnoliophyta,Liliopsida,Arecales,Arecaceae,Juania,Juania australis,Chonta,Nativa,En Peligro (EN)
+251,1,Plantae,Magnoliophyta,Liliopsida,Arecales,Arecaceae,Jubaea,Jubaea chilensis,Palma chilena,Nativa,En Peligro (EN)
+"305,1,Plantae,Magnoliophyta,Magnoliopsida,Magnoliales,Lactoridaceae,Lactoris,Lactoris fernandeziana,Falsa pimienta,Nativa,""En Peligro (EN), Rara"""
+764,1,Animalia,Chordata,Mammalia,Rodentia,Chinchillidae,Lagidium,Lagidium wolffsohni,Vizcacha austral,Nativa,Vulnerable (VU)
+"756,1,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Lama,Lama guanicoe,Guanaco,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+8193,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Lampayo,Lampayo hieronymi,Lampaya macho,Nativa,Vulnerable (VU)
+681,1,Animalia,Chordata,Aves,Charadriiformes,Laridae,Larosterna,Larosterna inca,Gaviotín monja,Nativa,Vulnerable (VU)
+254,1,Plantae,Magnoliophyta,Magnoliopsida,Mirtales,Myrtaceae,Legrandia,Legrandia concinna,Luma del Norte,Nativa,En Peligro (EN)
+"92,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Alstroemeriaceae,Leontochir,Leontochir ovallei,Garra de león,Nativa,""En Peligro (EN), Rara"""
+"13,1,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,Leopardus guigna,Güiña,Nativa,""Casi amenazada (NT), Vulnerable (VU)"""
+"14,1,Animalia,Chordata,Mammalia,Carnivora,Felidae,Leopardus,Leopardus jacobitus,Gato montés andino,Nativa,""En Peligro (EN), Rara"""
+8279,1,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,Lepidium,Lepidium horstii,,Nativa,En peligro crítico (CR)
+669,1,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Lepidochelys,Lepidochelys olivacea,Tortuga olivácea,Nativa,Vulnerable (VU)
+1844,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Leucheria,Leucheria polyclados,,Nativa,En Peligro (EN)
+1128,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Leucocoryne,Leucocoryne conferta,Cebollín,Nativa,Vulnerable (VU)
+481,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Leucocoryne,Leucocoryne foetida,Cebollín,Nativa,Vulnerable (VU)
+"682,1,Animalia,Chordata,Aves,Charadriiformes,Laridae,Leucophaeus,Leucophaeus modestus,Gaviota garuma,Nativa,""Rara, Vulnerable (VU)"""
+2804,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus araucaniensis,Lagartija de la Araucanía,Nativa,Vulnerable (VU)
+838,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus audituvelatus,Dragón de oído cubierto,Nativa,Vulnerable (VU)
+843,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus buergeri,Lagartija de Bürger,Nativa,En Peligro (EN)
+8320,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus carlosgarini,Lagartija de Garín,Nativa,En Peligro (EN)
+2806,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus coeruleus,Lagartija celeste,Nativa,En Peligro (EN)
+5421,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus confusus,Lagartija de Lolol,Nativa,En peligro crítico (CR)
+847,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus cristiani,Lagartija de Cristián,Nativa,Vulnerable (VU)
+848,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus curicensis,Lagartija de Curicó,Nativa,Vulnerable (VU)
+849,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus curis,Lagarto negro,Nativa,En peligro crítico (CR)
+8307,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus erguetae,Lagartija de Ergueta,Nativa,Vulnerable (VU)
+856,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus fabiani,Lagartija de Fabián,Nativa,En Peligro (EN)
+858,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus fitzingerii,Lagartija de Fitzinger,Nativa,En Peligro (EN)
+2802,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus frassinettii,Lagarto de Frassinetti,Nativa,En Peligro (EN)
+860,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus gravenhorsti,Lagartija de Gravenhorst,Nativa,Vulnerable (VU)
+861,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus hellmichi,Lagartija de Hellmich,Nativa,Vulnerable (VU)
+2805,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus hermannunezi,Lagartija de Herman Núñez,Nativa,En peligro crítico (CR)
+863,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus isabelae,Lagartija de Isabel,Nativa,Vulnerable (VU)
+866,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus juanortizi,Lagarto de Juan Carlos Ortiz,Nativa,Vulnerable (VU)
+871,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus leopardinus,Lagarto leopardo,Nativa,En Peligro (EN)
+872,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus lineomaculatus,Lagartija de tres líneas,Nativa,Vulnerable (VU)
+873,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus lorenzmuelleri,Lagarto de Lorenz Müller,Nativa,Vulnerable (VU)
+875,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus maldonadae,Lagartija de Maldonado,Nativa,Vulnerable (VU)
+2851,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus manueli,Lagartija de Manuel,Nativa,En Peligro (EN)
+883,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,LIolaemus patriciaiturrae,Lagartija de Patricia Iturra,Nativa,Vulnerable (VU)
+884,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus paulinae,Lagartija de Paulina,Nativa,Vulnerable (VU)
+923,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus poconchilensis,Dragón de Poconchile,Nativa,En Peligro (EN)
+888,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus ramonensis,Lagartija leopardo del Ramón,Nativa,Vulnerable (VU)
+844,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus riodamas,Lagarto de Cei,Nativa,En Peligro (EN)
+890,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus robertoi,Lagartija de Roberto,Nativa,Vulnerable (VU)
+891,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus rosenmanni,Lagartija de Rosenmann,Nativa,Vulnerable (VU)
+893,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus schroederi,Lagartija de Schröeder,Nativa,Vulnerable (VU)
+2829,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus scolaroi,Lagartija de Scolaro,Nativa,En Peligro (EN)
+895,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus silvai,Lagartija de Silva,Nativa,Vulnerable (VU)
+896,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus stolzmanni,Dragón de Stolzmann,Nativa,Vulnerable (VU)
+898,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Liolaemus,Liolaemus valdesianus,Lagarto de Lo Valdés,Nativa,Vulnerable (VU)
+1158,1,Plantae,Magnoliophyta,Magnoliopsida,Violales,Loasaceae,Loasa,Loasa multifida,,Nativa,Vulnerable (VU)
+483,1,Plantae,Magnoliophyta,Magnoliopsida,Campanulales,Campanulaceae,Lobelia,Lobelia bridgesii,Tupa rosada,Nativa,Vulnerable (VU)
+432,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Lobivia,Lobivia formosa,Koko,Nativa,Vulnerable (VU)
+272,1,Plantae,Pteridophyta,Filicopsida,Filicales,Blechnaceae,Lomaridium,Lomaridium schottii,Helecho,Nativa,Vulnerable (VU)
+269,1,Plantae,Pteridophyta,Filicopsida,Filicales,Blechnaceae,Lomariocycas,Lomariocycas cycadifolia,Helecho,Nativa,Vulnerable (VU)
+"9,1,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lontra,Lontra felina,Chungungo,Nativa,""En Peligro (EN), Vulnerable (VU)"""
+10,1,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lontra,Lontra provocax,Huillín,Nativa,En Peligro (EN)
+1159,1,Plantae,Magnoliophyta,Liliopsida,Juncales,Juncaceae,Luzula,Luzula masafuerana,,Nativa,En peligro crítico (CR)
+"740,1,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,Lycalopex culpaeus,Zorro culpeo,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+15,1,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,Lycalopex culpaeus lycoides,Zorro culpeo de Tierra del Fuego,Nativa,Vulnerable (VU)
+16,1,Animalia,Chordata,Mammalia,Carnivora,Canidae,Lycalopex,Lycalopex fulvipes,Zorro de Chiloé,Nativa,En Peligro (EN)
+8280,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Lycapsus,Lycapsus tenuifolius,,Nativa,En peligro crítico (CR)
+2865,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Lycium,Lycium boerhaviaefolium,Coralito del norte,Nativa,Vulnerable (VU)
+"486,1,Plantae,Pteridophyta,Lycopodiopsida,Lycopodales,Lycopodiaceae,Lycopodium,Lycopodium gayanum,,Nativa,""En peligro crítico (CR), Preocupación menor (LC)"""
+1160,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Cyperaceae,Machaerina,Machaerina scirpoidea,,Nativa,Vulnerable (VU)
+1193,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Maihuenia,Maihuenia patagonica,Chupa sangre,Nativa,En Peligro (EN)
+"93,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Maihueniopsis,Maihueniopsis crassispina,Cactus,Nativa,""En Peligro (EN), Rara"""
+1194,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Maihueniopsis,Maihueniopsis darwinii,Cactus,Nativa,En peligro crítico (CR)
+"94,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Maihueniopsis,Maihueniopsis domeykoensis,Cactus,Nativa,""En Peligro (EN), Rara"""
+"95,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Maihueniopsis,Maihueniopsis grandiflora,Cactus,Nativa,""En Peligro (EN), Rara"""
+"255,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Maihueniopsis,Maihueniopsis nigrispina,Cacto,Nativa,""Rara, Vulnerable (VU)"""
+"96,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Maihueniopsis,Maihueniopsis wagenknechtii,Cactus,Nativa,""Rara, Vulnerable (VU)"""
+491,1,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Malesherbiaceae,Malesherbia,Malesherbia auristipulata,Ají de zorra,Nativa,Vulnerable (VU)
+97,1,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Malesherbiaceae,Malesherbia,Malesherbia tenuifolia,Farolito rojo,Nativa,Vulnerable (VU)
+"98,1,Plantae,Magnoliophyta,Magnoliopsida,Malpighiales,Malesherbiaceae,Malesherbia,Malesherbia tocopillana,Farolito,Nativa,""En Peligro (EN), Rara"""
+1161,1,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Margyricarpus,Margyricarpus digynus,Savinilla,Nativa,En peligro crítico (CR)
+492,1,Plantae,Pteridophyta,Filicopsida,Marsileales,Marsileaceae,Marsilea,Marsilea mollis,,Nativa,Vulnerable (VU)
+1162,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Poaceae,Megalachne,Megalachne berteroniana,,Nativa,Vulnerable (VU)
+1163,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Poaceae,Megalachne,Megalachne masafuerana,,Nativa,En peligro crítico (CR)
+306,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dryopteridaceae,Megalastrum,Megalastrum inaequalifolium,Helecho,Nativa,En Peligro (EN)
+160,1,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Megaptera,Megaptera novaeangliae,Ballena jorobada,Nativa,Vulnerable (VU)
+"99,1,Plantae,Magnoliophyta,Magnoliopsida,Scrophulariales,Oleaceae,Menodora,Menodora linoides,Linacillo,Nativa,""En Peligro (EN), Rara"""
+1064,1,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,Menonvillea,Menonvillea macrocarpa,,Nativa,Extinta (EX)
+1165,1,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,Menonvillea,Menonvillea minima,,Nativa,En Peligro (EN)
+28,1,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Zygophyllaceae,Metharme,Metharme lanata,Metarma,Nativa,En Peligro (EN)
+904,1,Animalia,Chordata,Reptilia,Squamata,Tropiduridae,Microlophus,Microlophus atacamensis,Corredor de Atacama,Nativa,Vulnerable (VU)
+2869,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Microphyes,Microphyes robusta,,Nativa,En Peligro (EN)
+1846,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Microphyes,Microphyes robustus,,Nativa,En Peligro (EN)
+496,1,Plantae,Pteridophyta,Filicopsida,Filicales,Polypodiaceae,Microsorum,Microsorum scolopendria,Tía pito,Nativa,Vulnerable (VU)
+497,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Miersia,Miersia cornuta,,Nativa,En Peligro (EN)
+1166,1,Plantae,Magnoliophyta,Magnoliopsida,Scrophulariales,Scrophulariaceae,Mimulus,Mimulus glabratus,,Nativa,En peligro crítico (CR)
+"746,1,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Mirounga,Mirounga leonina,Elefante marino,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+8284,1,Animalia,Arthropoda,Insecta,Diptera,Mydidae,Mitrodetus,Mitrodetus leucotrichus,Mosca de las arenas,Nativa,Vulnerable (VU)
+8286,1,Animalia,Arthropoda,Insecta,Diptera,Mydidae,Mitrodetus,Mitrodetus nanoglossa,Mosca de las arenas de trompa corta,Nativa,Vulnerable (VU)
+8288,1,Animalia,Arthropoda,Insecta,Blattodea,Ectobiidae,Moluchia,Moluchia brevipennis,Cucaracha,Nativa,Vulnerable (VU)
+256,1,Plantae,Magnoliophyta,Magnoliopsida,Scrophulariales,Scrophulariaceae,Monttea,Monttea chilensis,Uvillo,Nativa,En Peligro (EN)
+179,1,Animalia,Chordata,Cephalaspidomorphi,Petromyzontiformes,Petromyzontidae,Mordacia,Mordacia lapicida,Lamprea de agua dulce,Nativa,En Peligro (EN)
+8240,1,Animalia,Chordata,Mammalia,Chiroptera,Molossidae,Mormopterus,Mormopterus kalinowskii,Murciélago coludo de Kalinowski,Nativa,Vulnerable (VU)
+5082,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Mulguraea,Mulguraea tridens,Mata Negra,Nativa,Vulnerable (VU)
+499,1,Plantae,Magnoliophyta,Magnoliopsida,Mirtales,Myrtaceae,Myrceugenia,Myrceugenia colchaguensis,Arrayán de Colchagua,Nativa,En Peligro (EN)
+307,1,Plantae,Magnoliophyta,Magnoliopsida,Mirtales,Myrtaceae,Myrceugenia,Myrceugenia fernandeziana,Luma de Masatierra,Nativa,Vulnerable (VU)
+308,1,Plantae,Magnoliophyta,Magnoliopsida,Mirtales,Myrtaceae,Myrceugenia,Myrceugenia schulzei,Luma de Masafuera,Nativa,En Peligro (EN)
+100,1,Plantae,Magnoliophyta,Magnoliopsida,Mirtales,Myrtaceae,Myrcianthes,Myrcianthes coquimbensis,Mirciantes,Nativa,En Peligro (EN)
+257,1,Plantae,Magnoliophyta,Magnoliopsida,Myricales,Myricaceae,Myrica,Myrica pavonis,Pacama,Nativa,Vulnerable (VU)
+5423,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Nardophyllum,Nardophyllum genistoides,Desconocido,Nativa,En Peligro (EN)
+180,1,Animalia,Chordata,Actinopterygii,Siluriformes,Nematogenyidae,Nematogenys,Nematogenys inermis,Bagre,Nativa,En Peligro (EN)
+5424,1,Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Neoholopterus,Neoholopterus antarcticus,Sierra de la estepa,Nativa,Vulnerable (VU)
+505,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria aspillagai,,Nativa,En Peligro (EN)
+507,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria castanea,Castañita,Nativa,Vulnerable (VU)
+508,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria chilensis,,Nativa,En Peligro (EN)
+509,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria clavata,Cacto maza,Nativa,Vulnerable (VU)
+526,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria nidus,Viejito,Nativa,En Peligro (EN)
+527,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria occulta,,Nativa,En Peligro (EN)
+530,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria recondita,,Nativa,Vulnerable (VU)
+532,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria subgibbosa var litoralis,,Nativa,Vulnerable (VU)
+"534,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria subgibbosa var subgibbosa,,Nativa,""Fuera de Peligro, Vulnerable (VU)"""
+537,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Neoporteria villosa,Quisco peludo,Nativa,Vulnerable (VU)
+539,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neowerdermannia,Neowerdermannia chilensis,Macso,Nativa,En Peligro (EN)
+8289,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,Nesocaryum,Nesocaryum stylosum,,Nativa,En peligro crítico (CR)
+722,1,Animalia,Chordata,Aves,Procellariformes,Oceanitidae,Nesofregetta,Nesofregetta fuliginosa,Golondrina  de mar de garganta blanca,Nativa,En Peligro (EN)
+8290,1,Animalia,Arthropoda,Insecta,Hemiptera,Aphididae,Neuquenaphis,Neuquenaphis staryi,Pulgón del ruíl,Nativa,En Peligro (EN)
+1065,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Nicotiana,Nicotiana cordifolia,,Nativa,En peligro crítico (CR)
+2756,1,Animalia,Arthropoda,Insecta,Plecoptera,Perlidae,Nigroperla,Nigroperla costalis,,Nativa,En peligro crítico (CR)
+540,1,Plantae,Magnoliophyta,Magnoliopsida,Polemoniales,Nolanaceae,Nolana,Nolana balsamiflua,Suspiro,Nativa,Vulnerable (VU)
+"29,1,Plantae,Magnoliophyta,Magnoliopsida,Fagales,Fagaceae,Nothofagus,Nothofagus alessandrii,Ruil,Nativa,""En Peligro (EN), Rara"""
+8422,1,Plantae,Magnoliophyta,Magnoliopsida,Fagales,Fagaceae,Nothofagus,Nothofagus macrocarpa,Roble,Nativa,Vulnerable (VU)
+"309,1,Plantae,Pteridophyta,Filicopsida,Filicales,Adiantaceae,Notholaena,Notholaena chilensis,Helecho,Nativa,""En Peligro (EN), Rara"""
+542,1,Plantae,Pteridophyta,Filicopsida,Filicales,Adiantaceae,Notholaena,Notholaena sulphurea,Doradilla,Nativa,Vulnerable (VU)
+543,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Nothoscordum,Nothoscordum serenense,,Nativa,En Peligro (EN)
+687,1,Animalia,Chordata,Aves,Charadriiformes,Scolopacidae,Numenius,Numenius borealis,Zarapito boreal,Nativa,En peligro crítico (CR)
+8477,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Nycterinus,Nycterinus angusticollis,Tenebrio,Nativa,En Peligro (EN)
+2778,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Nycterinus,Nycterinus borealis,Cucaracho negro,Nativa,En Peligro (EN)
+8478,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Nycterinus,Nycterinus mannerheimi,teatino de Mannerheim,Nativa,En Peligro (EN)
+8479,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Nycterinus,Nycterinus penai,tenebrio de Peña,Nativa,En peligro crítico (CR)
+684,1,Animalia,Chordata,Aves,Charadriiformes,Rostratulidae,Nycticryphes,Nycticryphes semicollaris,Becacina pintada,Nativa,En Peligro (EN)
+725,1,Animalia,Chordata,Aves,Procellariformes,Hydrobatidae,Oceanodroma,Oceanodroma markhami,Golondrina de mar negra,Nativa,En Peligro (EN)
+310,1,Plantae,Magnoliophyta,Liliopsida,Bromeliales,Bromeliaceae,Ochagavia,Ochagavia elegans,Ajo dulce,Nativa,Vulnerable (VU)
+770,1,Animalia,Chordata,Mammalia,Rodentia,Octodontidae,Octodon,Octodon lunatus,Degú costino,Nativa,Vulnerable (VU)
+771,1,Animalia,Chordata,Mammalia,Rodentia,Octodontidae,Octodontomys,Octodontomys gliroides,Soco,Nativa,Vulnerable (VU)
+8187,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Ocyroe,Ocyroe armata,,Nativa,Vulnerable (VU)
+181,1,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinopsidae,Odontesthes,Odontesthes brevianalis,Cauque del norte,Nativa,Vulnerable (VU)
+"182,1,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinopsidae,Odontesthes,Odontesthes gracilis,Pejerrey de Juan Fernández,Nativa,""Rara, Vulnerable (VU)"""
+183,1,Animalia,Chordata,Actinopterygii,Atheriniformes,Atherinopsidae,Odontesthes,Odontesthes mauleanum,Cauque,Nativa,Vulnerable (VU)
+8241,1,Plantae,Magnoliophyta,Magnoliopsida,Mirtales,Onagraceae,Oenothera,Oenothera grisea,Don Diego de la noche,Nativa,En peligro crítico (CR)
+219,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Omalonyx,Omalonyx gayana,caracol terrestre Omalonyx,Nativa,En peligro crítico (CR)
+2770,1,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Oogenius,Oogenius castilloi,,Nativa,En Peligro (EN)
+2771,1,Animalia,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Oogenius,Oogenius penai,,Nativa,En Peligro (EN)
+311,1,Plantae,Pteridophyta,Filicopsida,Ophioglossales,Ophioglossaceae,Ophioglossum,Ophioglossum fernandezianum,Helecho,Nativa,En peligro crítico (CR)
+545,1,Plantae,Pteridophyta,Filicopsida,Ophioglossales,Ophioglossaceae,Ophioglossum,Ophioglossum nudicaule,,Nativa,Vulnerable (VU)
+546,1,Plantae,Pteridophyta,Filicopsida,Ophioglossales,Ophioglossaceae,Ophioglossum,Ophioglossum reticulatum,Tía pito,Nativa,Vulnerable (VU)
+558,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Oreocereus,Oreocereus australis,Arequipa,Nativa,Vulnerable (VU)
+184,1,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,Orestias,Orestias agassii,Karachi,Nativa,En Peligro (EN)
+185,1,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,Orestias,Orestias ascotanensis,Karachi,Nativa,En Peligro (EN)
+186,1,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,Orestias,Orestias chungarensis,Karachi,Nativa,En Peligro (EN)
+6320,1,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,Orestias,Orestias gloriae,Orestias de Gloria,Nativa,En peligro crítico (CR)
+187,1,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,Orestias,Orestias laucaensis,Karachi,Nativa,En Peligro (EN)
+188,1,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,Orestias,Orestias parinacotensis,Karachi,Nativa,En Peligro (EN)
+2735,1,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,Orestias,Orestias piacotensis,Karachi,Nativa,En peligro crítico (CR)
+2872,1,Plantae,Magnoliophyta,Magnoliopsida,Gerianales,Oxalidaceae,Oxalis,Oxalis caesia,Vinagrillo,Nativa,Vulnerable (VU)
+2873,1,Plantae,Magnoliophyta,Magnoliopsida,Gerianales,Oxalidaceae,Oxalis,Oxalis leucophylla,,Nativa,En Peligro (EN)
+8183,1,Plantae,Magnoliophyta,Magnoliopsida,Gerianales,Oxalidaceae,Oxalis,Oxalis novemfoliolata,,Nativa,En peligro crítico (CR)
+4147,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Oxyphyllum,Oxyphyllum ulicinum,Parafina,Nativa,En Peligro (EN)
+5425,1,Plantae,Magnoliophyta,Magnoliopsida,Malvales,Malvaceae/Palaua,Palaua,Palaua concinna,malvilla,Nativa,Vulnerable (VU)
+700,1,Animalia,Chordata,Aves,Accipitriformes,Pandionidae,Pandion,Pandion haliaetus,Aguila pescadora,Nativa,Vulnerable (VU)
+"385,1,Plantae,Pteridophyta,Filicopsida,Filicales,Blechnaceae,Parablechnum,Parablechnum chilense,Costilla de vaca,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+2768,1,Animalia,Arthropoda,Insecta,Coleoptera,Cerambycidae,Paraholopterus,Paraholopterus nahuelbutensis,,Nativa,En peligro crítico (CR)
+726,1,Animalia,Chordata,Aves,Procellariformes,Pelecanoididae,Pelecanoides,Pelecanoides garnotii,Yunco,Nativa,En Peligro (EN)
+8291,1,Animalia,Arthropoda,Insecta,Diptera,Pelechorhynchidae,Pelechorhynchus,Pelechorhynchus penai,,Nativa,Vulnerable (VU)
+1167,1,Plantae,Magnoliophyta,Magnoliopsida,Piperales,Piperaceae,Peperomia,Peperomia berteroana,Peperomia,Nativa,En Peligro (EN)
+1168,1,Plantae,Magnoliophyta,Magnoliopsida,Piperales,Piperaceae,Peperomia,Peperomia coquimbensis,Congonilla,Nativa,En Peligro (EN)
+1170,1,Plantae,Magnoliophyta,Magnoliopsida,Piperales,Piperaceae,Peperomia,Peperomia margaritifera,Congonilla,Nativa,En peligro crítico (CR)
+1171,1,Plantae,Magnoliophyta,Magnoliopsida,Piperales,Piperaceae,Peperomia,Peperomia skottsbergii,,Nativa,En peligro crítico (CR)
+189,1,Animalia,Chordata,Actinopterygii,Perciformes,Percichthydae,Percichthys,Percichthys melanops,Perca negra,Nativa,Vulnerable (VU)
+822,1,Animalia,Chordata,Actinopterygii,Perciformes,Perciliidae,Percilia,Percilia gillissi,Carmelita,Nativa,En Peligro (EN)
+191,1,Animalia,Chordata,Actinopterygii,Perciformes,Perciliidae,Percilia,Percilia irwini,Carmelita de Concepción,Nativa,En Peligro (EN)
+"259,1,Plantae,Magnoliophyta,Magnoliopsida,Laurales,Lauraceae,Persea,Persea lingue,Lingue,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+714,1,Animalia,Chordata,Aves,Phaethontiformes,Phaethontidae,Phaethon,Phaethon rubricauda,Ave del trópico de cola roja,Nativa,Vulnerable (VU)
+718,1,Animalia,Chordata,Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicoparrus,Phoenicoparrus andinus,Parina grande,Nativa,Vulnerable (VU)
+719,1,Animalia,Chordata,Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicoparrus,Phoenicoparrus jamesi,Parina chica,Nativa,Vulnerable (VU)
+"720,1,Animalia,Chordata,Aves,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus,Phoenicopterus chilensis,Flamenco chileno,Nativa,""Rara, Vulnerable (VU)"""
+"914,1,Animalia,Chordata,Reptilia,Squamata,Gekkonidae,Phyllodactylus,Phyllodactylus gerrhopygus,Salamanqueja del norte grande,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+2754,1,Animalia,Arthropoda,Insecta,Odonata,Austropetalidae,Phyllopetalia,Phyllopetalia altarensis,,Nativa,En Peligro (EN)
+786,1,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,Phyllotis,Phyllotis osgoodi,Ratón orejudo de Osgood,Nativa,Vulnerable (VU)
+8185,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Phymaturus,Phymaturus  maulense,Matuasto,Nativa,En Peligro (EN)
+2798,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Phymaturus,Phymaturus alicahuense,Matuasto,Nativa,En peligro crítico (CR)
+2864,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Phymaturus,Phymaturus bibronii,Matuasto de Bibron,Nativa,En Peligro (EN)
+2800,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Phymaturus,Phymaturus damasense,matuasto,Nativa,En peligro crítico (CR)
+8190,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Phymaturus,Phymaturus damasense,Matuasto,Nativa,En peligro crítico (CR)
+2799,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Phymaturus,Phymaturus darwini,,Nativa,En Peligro (EN)
+2801,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Phymaturus,Phymaturus maulense,matuasto,Nativa,En Peligro (EN)
+2796,1,Animalia,Chordata,Reptilia,Squamata,Liolaemidae,Phymaturus,Phymaturus vociferator,Matuasto del Laja,Nativa,En peligro crítico (CR)
+8362,1,Fungi,Ascomycota,Lecanoromycetes,Caliciales,Physciaceae,Physcia,Physcia biziana,Líquen (Genérico),Nativa,Vulnerable (VU)
+800,1,Animalia,Chordata,Mammalia,Cetacea,Physeteridae,Physeter,Physeter macrocephalus,Cachalote gigante,Nativa,Vulnerable (VU)
+566,1,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Zygophyllaceae,Pintoa,Pintoa chilensis,Pintoa,Nativa,En Peligro (EN)
+30,1,Plantae,Magnoliophyta,Magnoliopsida,Rutales,Rutaceae,Pitavia,Pitavia punctata,Pitao,Nativa,En Peligro (EN)
+568,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Amaryllidaceae,Placea,Placea amoena,Macaya de la cuesta El Espino,Nativa,En Peligro (EN)
+569,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Amaryllidaceae,Placea,Placea davidii,,Nativa,Vulnerable (VU)
+571,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Amaryllidaceae,Placea,Placea ornata,,Nativa,Vulnerable (VU)
+"312,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Plantaginaceae,Plantago,Plantago fernandezia,Plantago de Juan Fernández,Nativa,""En Peligro (EN), Rara"""
+8304,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Plantaginaceae,Plantago,Plantago lundborgii,,Nativa,En peligro crítico (CR)
+8186,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Plazia,Plazia daphnoides,Koya macho,Nativa,Vulnerable (VU)
+691,1,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Plegadis,Plegadis chihi,Cuervo de pantano,Nativa,En Peligro (EN)
+"573,1,Plantae,Pteridophyta,Filicopsida,Filicales,Polypodiaceae,Pleopeltis,Pleopeltis macrocarpa,,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"52,1,Animalia,Chordata,Amphibia,Anura,Leiuperidae,Pleurodema,Pleurodema marmoratum,Sapo de cuatro ojos marmóreo,Nativa,""En Peligro (EN), Rara"""
+1172,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Poaceae,Podophorus,Podophorus bromoides,,Nativa,Extinta (EX)
+5428,1,Plantae,Magnoliophyta,Magnoliopsida,Polygalales,Polygalaceae,Polygala,Polygala solieri,,Nativa,Vulnerable (VU)
+260,1,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Polylepis,Polylepis rugulosa,Queñoa,Nativa,En Peligro (EN)
+261,1,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Rosaceae,Polylepis,Polylepis tarapacana,Queñoa de altura,Nativa,Vulnerable (VU)
+"313,1,Plantae,Pteridophyta,Filicopsida,Filicales,Polypodiaceae,Polypodium,Polypodium intermedium,Helecho,Nativa,""En Peligro (EN), Rara"""
+575,1,Plantae,Pteridophyta,Filicopsida,Filicales,Polypodiaceae,Polypodium,Polypodium masafuerae,,Nativa,En Peligro (EN)
+5427,1,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,Polypsecadium,Polypsecadium zoellneri,,Nativa,Vulnerable (VU)
+576,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dryopteridaceae,Polystichum,Polystichum fuentesii,,Nativa,Extinta (EX)
+315,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dryopteridaceae,Polystichum,Polystichum tetragonum,Helecho,Nativa,Vulnerable (VU)
+262,1,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Zygophyllaceae,Porlieria,Porlieria chilensis,guayacán,Nativa,Vulnerable (VU)
+"102,1,Plantae,Magnoliophyta,Magnoliopsida,Ericales,Sapotaceae,Pouteria,Pouteria splendens,Lúcumo silvestre,Nativa,""En Peligro (EN), Rara"""
+2772,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Praocis,Praocis medvedevi,,Nativa,En peligro crítico (CR)
+"5430,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Primnoidae,Primnoella,Primnoella chilensis,látigo del mar,Nativa,""Datos Insuficientes (DD), En Peligro (EN)"""
+916,1,Animalia,Chordata,Reptilia,Squamata,Leiosauridae,Pristidactylus,Pristidactylus alvaroi,Gruñidor de Alvaro,Nativa,En Peligro (EN)
+917,1,Animalia,Chordata,Reptilia,Squamata,Leiosauridae,Pristidactylus,Pristidactylus torquatus,Gruñidor del sur,Nativa,Vulnerable (VU)
+918,1,Animalia,Chordata,Reptilia,Squamata,Leiosauridae,Pristidactylus,Pristidactylus valeriae,Gruñidor de Valeria,Nativa,En Peligro (EN)
+919,1,Animalia,Chordata,Reptilia,Squamata,Leiosauridae,Pristidactylus,Pristidactylus volcanensis,Gruñidor de El Volcán,Nativa,En Peligro (EN)
+579,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis alpataco,Alpataco,Nativa,Vulnerable (VU)
+580,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis burkartii,,Nativa,En peligro crítico (CR)
+581,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis chilensis,Algarrobo,Nativa,Vulnerable (VU)
+582,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis flexuosa,Tamarugo enano,Nativa,Vulnerable (VU)
+583,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis reptans,Mastuerzo,Nativa,En Peligro (EN)
+585,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Prosopis,Prosopis tamarugo,Tamarugo,Nativa,En Peligro (EN)
+586,1,Plantae,Coniferophyta,Pinopsida,Pinales,Podocarpaceae,Prumnopitys,Prumnopitys andina,Lleuque,Nativa,Vulnerable (VU)
+"8367,1,Fungi,Ascomycota,Lecanoromycetes,Peltigerales,Lobariaceae,Pseudocyphellaria,Pseudocyphellaria bartlettii,Líquen (Genérico),Nativa,""En peligro crítico (CR), Preocupación menor (LC)"""
+729,1,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Psilopsiagon,Psilopsiagon aurifrons,Perico cordillerano,Nativa,Vulnerable (VU)
+316,1,Plantae,Pteridophyta,Filicopsida,Filicales,Adiantaceae,Pteris,Pteris berteroana,Helecho,Nativa,Vulnerable (VU)
+"588,1,Plantae,Pteridophyta,Filicopsida,Filicales,Adiantaceae,Pteris,Pteris chilensis,Pesebre,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+"589,1,Plantae,Pteridophyta,Filicopsida,Filicales,Adiantaceae,Pteris,Pteris semiadnata,Pesebre,Nativa,""Preocupación menor (LC), Vulnerable (VU)"""
+1195,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Pterocactus,Pterocactus australis,Cactus,Nativa,En Peligro (EN)
+1196,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Pterocactus,Pterocactus hickenii,Cactus,Nativa,En Peligro (EN)
+727,1,Animalia,Chordata,Aves,Procellariformes,Procellaridae,Pterodroma,Pterodroma cookii,Fardela de Cook,Nativa,Vulnerable (VU)
+151,1,Animalia,Chordata,Aves,Procellariformes,Procellaridae,Pterodroma,Pterodroma defilippiana,Fardela blanca de Más a Tierra,Nativa,Vulnerable (VU)
+152,1,Animalia,Chordata,Aves,Procellariformes,Procellaridae,Pterodroma,Pterodroma externa,Fardela blanca,Nativa,En Peligro (EN)
+153,1,Animalia,Chordata,Aves,Procellariformes,Procellaridae,Pterodroma,Pterodroma longirostris,Fardela blanca de Más Afuera,Nativa,En Peligro (EN)
+154,1,Animalia,Chordata,Aves,Procellariformes,Procellaridae,Pterodroma,Pterodroma neglecta,Fardela negra de Juan Fernández,Nativa,En Peligro (EN)
+220,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Ptychodon,Ptychodon oculta,Caracol terrestre Ptychodon,Nativa,En Peligro (EN)
+221,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Ptychodon,Ptychodon skottsberg,Caracol terrestre Ptychodon,Nativa,En Peligro (EN)
+17,1,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Pudu,Pudu pudu,Pudú,Nativa,Vulnerable (VU)
+53,1,Animalia,Chordata,Aves,Procellariformes,Procellaridae,Puffinus,Puffinus creatopus,Fardela blanca,Nativa,En Peligro (EN)
+728,1,Animalia,Chordata,Aves,Procellariformes,Procellaridae,Puffinus,Puffinus nativitatis,Fardela de Pascua,Nativa,Vulnerable (VU)
+222,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Punctum,Punctum conicum,Caracol terrestre Punctum,Nativa,En peligro crítico (CR)
+223,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Endodontidae,Punctum,Punctum depressum,Caracol terrestre Punctum,Nativa,En peligro crítico (CR)
+2706,1,Plantae,Magnoliophyta,Liliopsida,Bromeliales,Bromeliaceae,Puya,Puya boliviensis,Chagual dulce,Nativa,Vulnerable (VU)
+263,1,Plantae,Magnoliophyta,Liliopsida,Bromeliales,Bromeliaceae,Puya,Puya venusta,Chagualillo,Nativa,Vulnerable (VU)
+504,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Pyrrhocactus,Pyrrhocactus aricensis,Ariqueño,Nativa,Vulnerable (VU)
+1187,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Pyrrhocactus,Pyrrhocactus confinis,sandillón,Nativa,Vulnerable (VU)
+517,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Pyrrhocactus,Pyrrhocactus eriosyzoides,Quisco de Huanta,Nativa,Vulnerable (VU)
+521,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Pyrrhocactus,Pyrrhocactus intermedius,Quisquito de Chañaral,Nativa,Vulnerable (VU)
+524,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Pyrrhocactus,Pyrrhocactus kunzei,Cunze,Nativa,En Peligro (EN)
+531,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Neoporteria,Pyrrhocactus simulans,Simulador,Nativa,En peligro crítico (CR)
+535,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Pyrrhocactus,Pyrrhocactus taltalensis,Quisquito de Taltal,Nativa,Vulnerable (VU)
+520,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Pyrrhocactus,Pyrrhocactus tuberisulcatus,Hórrido,Nativa,Vulnerable (VU)
+1173,1,Plantae,Magnoliophyta,Magnoliopsida,Ranunculales,Ranunculaceae,Ranunculus,Ranunculus caprarum,,Nativa,En peligro crítico (CR)
+4330,1,Animalia,Chordata,Aves,Charadriiformes,Recurvirostridae,Recurvirostra,Recurvirostra andina,Caití,Nativa,Vulnerable (VU)
+317,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Verbenaceae,Rhaphithamnus,Rhaphithamnus venustus,Arrayán macho,Nativa,En Peligro (EN)
+"731,1,Animalia,Chordata,Aves,Rheiformes,Rheidae,Rhea,Rhea pennata pennata,Ñandú,Nativa,""En Peligro (EN), Vulnerable (VU)"""
+19,1,Animalia,Chordata,Aves,Rheiformes,Rheidae,Rhea,Rhea pennata tarapacensis,Ñandú del norte,Nativa,Vulnerable (VU)
+651,1,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,Rhinella arunco,Sapo de rulo,Nativa,Vulnerable (VU)
+652,1,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,Rhinella atacamensis,Sapo de Atacama,Nativa,Vulnerable (VU)
+653,1,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella,Rhinella rubropunctata,Sapo,Nativa,Vulnerable (VU)
+54,1,Animalia,Chordata,Amphibia,Anura,Rhinodermatidae,Rhinoderma,Rhinoderma darwini,Ranita de Darwin,Nativa,En Peligro (EN)
+55,1,Animalia,Chordata,Amphibia,Anura,Rhinodermatidae,Rhinoderma,Rhinoderma rufum,Sapito vaquero,Nativa,En peligro crítico (CR)
+"8383,1,Fungi,Ascomycota,Lecanoromycetes,Lecanorales,Lecanoraceae,Rhizoplaca,Rhizoplaca aspidophora,Líquen (Genérico),Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+595,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Amaryllidaceae,Rhodophiala,Rhodophiala tiltilensis,,Nativa,En Peligro (EN)
+20,1,Animalia,Chordata,Mammalia,Paucituberculata,Rhyncholestes,Caenolestidae,Rhyncholestes raphanurus,Comadrejita trompuda,Nativa,Vulnerable (VU)
+596,1,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Saxifragaceae,Ribes,Ribes integrifolium,Parrilla falsa,Nativa,Vulnerable (VU)
+318,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Robinsonia,Robinsonia berteroi,Resino hembra,Nativa,En peligro crítico (CR)
+"319,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Robinsonia,Robinsonia evenia,,Nativa,""En Peligro (EN), Rara"""
+"320,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Robinsonia,Robinsonia gayana,Resino hembra,Nativa,""En Peligro (EN), Rara"""
+"321,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Robinsonia,Robinsonia gracilis,Resinillo,Nativa,""En Peligro (EN), Rara"""
+322,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Robinsonia,Robinsonia macrocephala,Incienso,Nativa,Extinta (EX)
+"323,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Robinsonia,Robinsonia masafuerae,,Nativa,""En Peligro (EN), Rara"""
+"324,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Robinsonia,Robinsonia saxatilis,Robinsonia de las rocas,Nativa,""En Peligro (EN), Rara"""
+"325,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Robinsonia,Robinsonia thurifera,Resino macho,Nativa,""En Peligro (EN), Rara"""
+8385,1,Fungi,Ascomycota,Arthoniomycetes,Arthoniales,Roccellaceae,Roccellina,Roccellina mollis,Líquen (Genérico),Nativa,Vulnerable (VU)
+326,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dryopteridaceae,Rumohra,Rumohra berteroana,Helecho,Nativa,Vulnerable (VU)
+598,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,Salvia,Salvia tubiflora,Salvia roja,Nativa,Vulnerable (VU)
+8298,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Sanctambrosia,Sanctambrosia manicata,,Nativa,En peligro crítico (CR)
+31,1,Plantae,Magnoliophyta,Magnoliopsida,Santalales,Santalaceae,Santalum,Santalum Fernandezianum,Sándalo de Juan Fernández,Nativa,Extinta (EX)
+600,1,Plantae,Magnoliophyta,Magnoliopsida,Sapindales,Anacardiaceae,Schinus,Schinus marchandii,Laura,Nativa,Vulnerable (VU)
+4381,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Schizanthus,Schizanthus litoralis,Pajarito,Nativa,Vulnerable (VU)
+2883,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Cyperaceae,Scirpus,Scirpus trachycaulos,Junquillo,Nativa,Extinta (EX)
+2765,1,Animalia,Arthropoda,Insecta,Coleoptera,Lucanidae,Sclerostomulus,Sclerostomulus nitidus,Borrachito,Nativa,En peligro crítico (CR)
+2773,1,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Scotobius,Scotobius planicosta,,Nativa,En Peligro (EN)
+602,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Lamiaceae,Scutellaria,Scutellaria valdiviana,Teresa,Nativa,En Peligro (EN)
+"327,1,Plantae,Magnoliophyta,Magnoliopsida,Lamiales,Boraginaceae,Selkirkia,Selkirkia berteroi,,Nativa,""En Peligro (EN), Rara"""
+2884,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio balsamicus,,Nativa,En Peligro (EN)
+926,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio linaresensis,,Nativa,En Peligro (EN)
+1067,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio microtis,,Nativa,Vulnerable (VU)
+2914,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Senecio,Senecio ricardii,,Nativa,Vulnerable (VU)
+2915,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Senna,Senna paposana,Senna de Paposo,Nativa,En Peligro (EN)
+"21,1,Animalia,Chordata,Aves,Apodiformes,Trochilidae,Sephanoides,Sephanoides fernandensis,Picaflor de Juan Fernández,Nativa,""En Peligro (EN), Rara"""
+"603,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Serpyllopsis,Serpyllopsis caespitosa,,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+328,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Serpyllopsis,Serpyllopsis caespitosa var. fernandeziana,Helecho,Nativa,En Peligro (EN)
+"8300,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum brachyantherum,Chavalongo,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+1174,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum fernandezianum,papa de Juan Fernández,Nativa,En peligro crítico (CR)
+2916,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum herba-bona,,Nativa,Vulnerable (VU)
+"264,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum lycopersicoides,Tomate silvestre,Nativa,""En Peligro (EN), Rara"""
+"265,1,Plantae,Magnoliophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,Solanum sitiens,Tomate silvestre,Nativa,""Rara, Vulnerable (VU)"""
+605,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Solaria,Solaria cuspidata,,Nativa,Vulnerable (VU)
+"329,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Sophora,Sophora fernandeziana,Madera dura,Nativa,""En Peligro (EN), Rara"""
+"330,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Sophora,Sophora masafuerana,Pelú de Juan Fernández,Nativa,""En Peligro (EN), Rara"""
+32,1,Plantae,Magnoliophyta,Magnoliopsida,Fabales,Fabaceae,Sophora,Sophora toromiro,Toromiro,Nativa,Extinta en la naturaleza (EW)
+1175,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Spergularia,Spergularia confertiflora,,Nativa,Vulnerable (VU)
+1176,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Caryophyllaceae,Spergularia,Spergularia masafuerana,haloragis,Nativa,En peligro crítico (CR)
+56,1,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Spheniscus,Spheniscus humboldti,Pingüino de Humboldt,Nativa,Vulnerable (VU)
+22,1,Animalia,Chordata,Aves,Charadriiformes,Laridae,Sterna,Sterna lorata,Gaviotín chico,Nativa,En Peligro (EN)
+8301,1,Animalia,Arthropoda,Insecta,Diptera,Syrphidae,Sterphus,Sterphus aurifrons,Mosco de Juan Fernández,Nativa,En peligro crítico (CR)
+612,1,Plantae,Pteridophyta,Filicopsida,Filicales,Gleicheniaceae,Sticherus,Sticherus squamulosus,Huedahue,Nativa,En Peligro (EN)
+1068,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Suaeda,Suaeda multiflora,,Nativa,Vulnerable (VU)
+8302,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Chenopodiaceae,Suaeda,Suaeda nesophila,,Nativa,En Peligro (EN)
+226,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea  fernandi,caracol terrestre Succinea,Nativa,En peligro crítico (CR)
+227,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea  fragilis,caracol terrestre Succinea,Nativa,En Peligro (EN)
+229,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea  masafuerae,caracol terrestre Succinea,Nativa,En peligro crítico (CR)
+230,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea  pinguis,caracol terrestre Succinea,Nativa,En Peligro (EN)
+231,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea  rubicunda,caracol terrestre Succinea,Nativa,En peligro crítico (CR)
+232,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea  semiblobosa,caracol terrestre Succinea,Nativa,En peligro crítico (CR)
+224,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea cryptica,caracol terrestre Succinea,Nativa,En peligro crítico (CR)
+225,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea cumingi,caracol terrestre Succinea,Nativa,En peligro crítico (CR)
+228,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea mamillata,caracol terrestre Succinea,Nativa,En Peligro (EN)
+233,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Succineidae,Succinea,Succinea texta,caracol terrestre Succinea,Nativa,En peligro crítico (CR)
+8181,1,Animalia,Cnidaria,Anthozoa,Alcyonacea,Paramuriceidae,Swiftia,Swiftia comauensis,Gorgonia amarilla-roja,Nativa,En peligro crítico (CR)
+574,1,Plantae,Pteridophyta,Filicopsida,Filicales,Polypodiaceae,Synammia,Synammia espinosae,,Nativa,Vulnerable (VU)
+8247,1,Animalia,Arthropoda,Insecta,Diptera,Tanyderidae,Tanyderus,Tanyderus pictus,Típula pintada,Nativa,Vulnerable (VU)
+"33,1,Plantae,Magnoliophyta,Liliopsida,Liliales,Tecophilaeaceae,Tecophilaea,Tecophilaea cyanocrocus,Azulillo,Nativa,""En Peligro (EN), Rara"""
+2918,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius chusmisensis,Sapo,Nativa,En peligro crítico (CR)
+662,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius dankoi,Sapo de Danko,Nativa,En peligro crítico (CR)
+663,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius fronteriensis,Sapo de la frontera,Nativa,En peligro crítico (CR)
+57,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius halli,Sapo de Hall,Nativa,En peligro crítico (CR)
+664,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius marmoratus,Sapo,Nativa,Vulnerable (VU)
+"59,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius pefauri,Sapo de Pefaur,Nativa,""En Peligro (EN), Rara"""
+"60,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius peruvianus,Sapo peruano,Nativa,""En Peligro (EN), Rara"""
+665,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius phillipii,Sapo de Phillippi,Nativa,En Peligro (EN)
+4458,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius vilamensis,Rana de Vilama,Nativa,En peligro crítico (CR)
+"61,1,Animalia,Chordata,Amphibia,Anura,Telmatobiidae,Telmatobius,Telmatobius zapahuirensis,Sapo de Zapahuira,Nativa,""En Peligro (EN), Rara"""
+62,1,Animalia,Chordata,Amphibia,Anura,Calyptocephalellidae,Telmatobufo,Telmatobufo australis,Sapo Austral,Nativa,Vulnerable (VU)
+"63,1,Animalia,Chordata,Amphibia,Anura,Calyptocephalellidae,Telmatobufo,Telmatobufo bullocki,Sapo de Bullock,Nativa,""Rara, Vulnerable (VU)"""
+5433,1,Animalia,Chordata,Amphibia,Anura,Calyptocephalellidae,Telmatobufo,Telmatobufo ignotus,Rana montana de Los Queules,Nativa,En Peligro (EN)
+64,1,Animalia,Chordata,Amphibia,Anura,Calyptocephalellidae,Telmatobufo,Telmatobufo venustus,Sapo hermoso,Nativa,En Peligro (EN)
+4469,1,Animalia,Chordata,Aves,Procellariformes,Diomedeidae,Thalassarche,Thalassarche eremita,Albatros de Chatham,Nativa,Vulnerable (VU)
+8303,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Thamnoseris,Thamnoseris lacerata,,Nativa,En Peligro (EN)
+528,1,Plantae,Magnoliophyta,Magnoliopsida,Caryophyllales,Cactaceae,Thelocephala,Thelocephala odieri,Odieri,Nativa,Vulnerable (VU)
+693,1,Animalia,Chordata,Aves,Pelecaniformes,Threskiornithidae,Theristicus,Theristicus branickii,Bandurria de la puna,Nativa,En Peligro (EN)
+331,1,Plantae,Pteridophyta,Filicopsida,Filicales,Dicksoniaceae,Thyrsopteris,Thyrsopteris elegans,Tirsopteris,Nativa,En Peligro (EN)
+615,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Iridaceae,Tigridia,Tigridia philippiana,,Nativa,Vulnerable (VU)
+927,1,Plantae,Magnoliophyta,Liliopsida,Bromeliales,Bromeliaceae,Tillandsia,Tillandsia marconae,calanchuca,Nativa,En Peligro (EN)
+"103,1,Plantae,Magnoliophyta,Liliopsida,Bromeliales,Bromeliaceae,Tillandsia,Tillandsia tragophoba,,Nativa,""En Peligro (EN), Rara"""
+735,1,Animalia,Chordata,Aves,Tinamiformes,Tinamidae,Tinamotis,Tinamotis ingoufi,Perdiz austral,Nativa,Vulnerable (VU)
+234,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Tornatellina,Tornatellina aperta,caracol terrestre Tornatellina,Nativa,En peligro crítico (CR)
+235,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Tornatellina,Tornatellina bilamellata,caracol terrestre Tornatellina,Nativa,En peligro crítico (CR)
+236,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Tornatellina,Tornatellina callosa,caracol terrestre Tornatellina,Nativa,En peligro crítico (CR)
+237,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Tornatellina,Tornatellina minuta,caracol terrestre Tornatellina,Nativa,En Peligro (EN)
+238,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Tornatellina,Tornatellina plicosa,caracol terrestre Tornatellina,Nativa,En peligro crítico (CR)
+239,1,Animalia,Mollusca,Gastropoda,Stylommatophora,Tornatellinidae,Tornatellina,Tornatellina reclusiana,caracol terrestre Tornatellina,Nativa,En peligro crítico (CR)
+"617,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Trichomanes,Trichomanes exsectum,,Nativa,""En Peligro (EN), Vulnerable (VU)"""
+"332,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Trichomanes,Trichomanes ingae,Helecho,Nativa,""En Peligro (EN), Rara"""
+"333,1,Plantae,Pteridophyta,Filicopsida,Filicales,Hymenophyllaceae,Trichomanes,Trichomanes philippianum,Helecho,Nativa,""En Peligro (EN), Rara"""
+192,1,Animalia,Chordata,Actinopterygii,Siluriformes,Trichomycteridae,Trichomycterus,Trichomycterus areolatus,Bagrecito,Nativa,Vulnerable (VU)
+"193,1,Animalia,Chordata,Actinopterygii,Siluriformes,Trichomycteridae,Trichomycterus,Trichomycterus chiltoni,Bagrecito,Nativa,""En Peligro (EN), Rara"""
+"194,1,Animalia,Chordata,Actinopterygii,Siluriformes,Trichomycteridae,Trichomycterus,Trichomycterus chungarensis,Bagrecito,Nativa,""En Peligro (EN), Rara"""
+196,1,Animalia,Chordata,Actinopterygii,Siluriformes,Trichomycteridae,Trichomycterus,Trichomycterus laucaensis,Bagrecito,Nativa,En Peligro (EN)
+"195,1,Animalia,Chordata,Actinopterygii,Siluriformes,Trichomycteridae,Trichomycterus,Trichomycterus rivulatus,Bagre de la Puna,Nativa,""En Peligro (EN), Rara"""
+567,1,Plantae,Pteridophyta,Filicopsida,Polypodiales,Pteridaceae,Trismeria,Trismeria trifoliata,Desconocido,Nativa,Vulnerable (VU)
+618,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Tristagma,Tristagma graminifolium,,Nativa,Vulnerable (VU)
+1177,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Tristagma,Tristagma leichtlinii,flor de la virgen,Nativa,Extinta (EX)
+1178,1,Plantae,Magnoliophyta,Liliopsida,Asparagales,Alliaceae,Tristagma,Tristagma subbiflorum,,Nativa,En peligro crítico (CR)
+5438,1,Plantae,Magnoliophyta,Magnoliopsida,Gerianales,Tropaeolaceae,Tropaeolum,Tropaeolum beuthii,No tiene,Nativa,En Peligro (EN)
+1179,1,Plantae,Magnoliophyta,Magnoliopsida,Gerianales,Tropaeolaceae,Tropaeolum,Tropaeolum hookerianum,soldadito,Nativa,Vulnerable (VU)
+"161,1,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Tursiops,Tursiops truncatus,Delfín nariz de botella,Nativa,""En Peligro (EN), Preocupación menor (LC)"""
+"334,1,Plantae,Magnoliophyta,Magnoliopsida,Mirtales,Myrtaceae,Ugni,Ugni selkirkii,Murtillo,Nativa,""En Peligro (EN), Rara"""
+5435,1,Plantae,Magnoliophyta,Liliopsida,Orchidales,Orchidaceae,Ulantha,Ulantha apinnula,,Nativa,En Peligro (EN)
+1180,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Cyperaceae,Uncinia,Uncinia costata,,Nativa,En peligro crítico (CR)
+1181,1,Plantae,Magnoliophyta,Liliopsida,Cyperales,Cyperaceae,Uncinia,Uncinia douglasii,,Nativa,Vulnerable (VU)
+1182,1,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Urticaceae,Urtica,Urtica glomeruliflora,,Nativa,En peligro crítico (CR)
+1183,1,Plantae,Magnoliophyta,Magnoliopsida,Urticales,Urticaceae,Urtica,Urtica masafuerae,ortiga,Nativa,En peligro crítico (CR)
+"104,1,Plantae,Magnoliophyta,Magnoliopsida,Rosales,Saxifragaceae,Valdivia,Valdivia gayana,Valdivia,Nativa,""Rara, Vulnerable (VU)"""
+1070,1,Plantae,Magnoliophyta,Magnoliopsida,Dipsacales,Valerianaceae,Valeriana,Valeriana senecioides,valeriana,Nativa,En Peligro (EN)
+755,1,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Vicugna,Vicugna vicugna,Vicuña,Nativa,En Peligro (EN)
+5437,1,Plantae,Magnoliophyta,Magnoliopsida,Violales,Violaceae,Viola,Viola johnstonii,Violeta,Nativa,En Peligro (EN)
+643,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Parastacidae,Virilastacus,Virilastacus araucanius,Camarón excavador,Nativa,Vulnerable (VU)
+5440,1,Animalia,Arthropoda,Malacostraca/Crustacea,Decapoda,Parastacidae,Virilastacus,Virilastacus rucapihuelensis,Camarón excavador,Nativa,En Peligro (EN)
+"335,1,Plantae,Magnoliophyta,Magnoliopsida,Campanulales,Campanulaceae,Wahlenbergia,Wahlenbergia berteroi,,Nativa,""En Peligro (EN), Rara"""
+336,1,Plantae,Magnoliophyta,Magnoliopsida,Campanulales,Campanulaceae,Wahlenbergia,Wahlenbergia fernandeziana,,Nativa,En Peligro (EN)
+"337,1,Plantae,Magnoliophyta,Magnoliopsida,Campanulales,Campanulaceae,Wahlenbergia,Wahlenbergia grahamiae,,Nativa,""En Peligro (EN), Rara"""
+"339,1,Plantae,Magnoliophyta,Magnoliopsida,Campanulales,Campanulaceae,Wahlenbergia,Wahlenbergia tuberosa,,Nativa,""En Peligro (EN), Rara"""
+1184,1,Plantae,Magnoliophyta,Magnoliopsida,Capparales,Brassicaceae,Weberbauera,Weberbauera lagunae,,Nativa,En Peligro (EN)
+"340,1,Plantae,Magnoliophyta,Magnoliopsida,Asterales,Asteraceae,Yunquea,Yunquea tenzii,Yunquea,Nativa,""En Peligro (EN), Rara"""
+5439,1,Plantae,Magnoliophyta,Liliopsida,Najadales,Zosteraceae,Zostera,Zostera chilensis,Pasto común,Nativa,En Peligro (EN)
