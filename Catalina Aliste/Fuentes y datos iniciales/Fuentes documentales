@@ -5,3 +5,7 @@ http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_endemicas.aspx
 https://clasificacionespecies.mma.gob.cl/wp-content/uploads/2019/10/Ficha_Web_GATOCOLOCOLO.pdf
 https://bibliotecadigital.ciren.cl/bitstream/handle/20.500.13082/20779/CONAMA-Especies_amenazadas_de_Chile.pdf?sequence=1&isAllowed=y
 # Estos datos los transformé a un excel (carpeta "Datos recolección propia")
+
+
+# La elección de la primera fuente (datos iniciales) se basa más que nada en algo siple: proviene del ministerio
+# Decidimos usar esta tabla de datos oficiales porque en ella se indicaban criterios que nos interesaban: especies endémicas y su estado de conservación
