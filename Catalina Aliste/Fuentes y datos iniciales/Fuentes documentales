@@ -1,0 +1,7 @@
+# En primer lugar buscamos datos donde obtuvimos la siguiente información que era posible ver en Excel:
+http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_endemicas.aspx
+
+# Decidimos incluir info recopilada por nosotros de otras fuentes para coplementar la base de datos anterior. La info y las fuentes las sacamos de los siguientes sitios:
+https://clasificacionespecies.mma.gob.cl/wp-content/uploads/2019/10/Ficha_Web_GATOCOLOCOLO.pdf
+https://bibliotecadigital.ciren.cl/bitstream/handle/20.500.13082/20779/CONAMA-Especies_amenazadas_de_Chile.pdf?sequence=1&isAllowed=y
+# Estos datos los transformé a un excel (carpeta "Datos recolección propia")
