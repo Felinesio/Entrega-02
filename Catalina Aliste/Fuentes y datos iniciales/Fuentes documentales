@@ -7,6 +7,8 @@ https://bibliotecadigital.ciren.cl/bitstream/handle/20.500.13082/20779/CONAMA-Es
 # Estos datos los transformé a un excel (carpeta "Datos recolección propia")
 
 
+# Alcances metodológicos: 
 # La elección de la primera fuente (datos iniciales) se basa más que nada en algo siple: proviene del ministerio
 # Decidimos usar esta tabla de datos oficiales porque en ella se indicaban criterios que nos interesaban: especies endémicas y su estado de conservación
-# En particular el segundo criterio servirá para clasificar a estos felinos y de ahí trabajar según el nivel de conservación que tengan, sus características y la info que explique el por qué de su estado.
+# En particular el segundo criterio servirá para clasificar a estos felinos y de ahí trabajar según el nivel de conservación que tengan, sus características y la info que explique el por qué de su estado
+# La importancia de este segudno criterio (el ppr qué limpiamos esos datos) recae en que será parte del fin educacional que le queremos dar a nuestra investigación.
