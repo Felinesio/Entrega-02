@@ -1,0 +1,4 @@
+﻿Especie Id;Version;Reino;División;Clase;Orden;Familia;Genero;Nombre Cientifico;Nombre Comun;Origen;Estado Conservacion
+9000;1;Animalia;Chordata;Mammalia;Carnivora;Felidae;Leopardus;Leopardus colocolo;Gato colocolo;Nativa;Casi amenazada (NT)
+9001;1;Animalia;Chordata;Mammalia;Carnivora;Felidae;Leopardus;Puma concolor;Puma;Nativa;Vulnerable (VU)
+9002;1;Animalia;Chordata;Mammalia;Carnivora;Felidae;Leopardus;Leopardus geoffroyi;Gato de geoffroy;Nativa;Casi amenazada (NT)
