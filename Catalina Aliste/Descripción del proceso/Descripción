@@ -1,0 +1,9 @@
+# Junto a mis compañeros nos dividimos las bases de datos encontradas para la Entrega_01. En mi caso me tocó la tabla de datos "Especies Endémicas" sacada del Ministerio del Medio Ambiente
+# Importamos a Python
+# Necesitaba limpiar los datos sobre felinos, debido a que esta contenía sobre plantas y otros animales, incluso no mamíferos. El criterio para limpiar fue "Género", el cual en el caso de los felinos corresponde a "Leopardus"
+# El filtro de leopardus lo puse de todas las posible formas que podría aparecer en la tabla, como "leopardus = "
+# De esto resultó una filtración mas bien rápida que nos dejaba unicamente a dos felinos (la Gúiña y el Gato Montés Andino)
+# Decidimos incluir tres gatos más, cuyainformación recopilamos de sitios y papers científicos
+# Fuente por fuente, armé un excel y lo exporté a Python 
+# Tras eso usé la herramienta de fusión "super_fusión = datos..."
+# Finalmente quedó una tabla con datos filtrados + otros complementarios extraídos a parte 
