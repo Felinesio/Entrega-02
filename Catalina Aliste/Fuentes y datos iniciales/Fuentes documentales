@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # En primer lugar buscamos datos donde obtuvimos la siguiente información que era posible ver en Excel:
 http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_endemicas.aspx
 
@@ -12,3 +13,12 @@ https://bibliotecadigital.ciren.cl/bitstream/handle/20.500.13082/20779/CONAMA-Es
 # Decidimos usar esta tabla de datos oficiales porque en ella se indicaban criterios que nos interesaban: especies endémicas y su estado de conservación
 # En particular el segundo criterio servirá para clasificar a estos felinos y de ahí trabajar según el nivel de conservación que tengan, sus características y la info que explique el por qué de su estado
 # La importancia de este segudno criterio (el ppr qué limpiamos esos datos) recae en que será parte del fin educacional que le queremos dar a nuestra investigación.
+=======
+# En primer lugar buscamos datos donde obtuvimos la siguiente información que era posible ver en Excel:
+http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/especies_endemicas.aspx
+
+# Decidimos incluir info recopilada por nosotros de otras fuentes para coplementar la base de datos anterior. La info y las fuentes las sacamos de los siguientes sitios:
+https://clasificacionespecies.mma.gob.cl/wp-content/uploads/2019/10/Ficha_Web_GATOCOLOCOLO.pdf
+https://bibliotecadigital.ciren.cl/bitstream/handle/20.500.13082/20779/CONAMA-Especies_amenazadas_de_Chile.pdf?sequence=1&isAllowed=y
+# Estos datos los transformé a un excel (carpeta "Datos recolección propia")
+>>>>>>> Stashed changes
